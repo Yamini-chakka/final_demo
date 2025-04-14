@@ -1,0 +1,837 @@
+🧠 Generating info for: ABN AMRO Bank N.V. Frankfurt Branch
+
+🧠 Generating info for: ABN AMRO Bank N.V., Belgium Branch
+
+🧠 Generating info for: Abts & Partners Sàrl
+
+🧠 Generating info for: Abu Dhabi National Takaful
+[WARN] No match found for: Description
+[WARN] No match found for: Description
+[ABN AMRO Bank N.V. Frankfurt Branch - Description] => Banking Services
+[WARN] No match found for: Software Classification
+[Abu Dhabi National Takaful - Description] => Takaful Insurance
+[Abts & Partners Sàrl - Description] => Wealth Management
+[ABN AMRO Bank N.V., Belgium Branch - Description] => Banking Services
+[WARN] No match found for: Software Classification
+[ABN AMRO Bank N.V. Frankfurt Branch - Software Classification] => Financial Software
+[WARN] No match found for: Enterprise Grade Classification
+[Abu Dhabi National Takaful - Software Classification] => Claims Management
+[Abts & Partners Sàrl - Software Classification] => Analytics Tool
+[ABN AMRO Bank N.V., Belgium Branch - Software Classification] => Banking Software
+[WARN] No match found for: Enterprise Grade Classification
+[ABN AMRO Bank N.V. Frankfurt Branch - Enterprise Grade Classification] => Global Banking
+[WARN] No match found for: Industry
+[Abu Dhabi National Takaful - Enterprise Grade Classification] => Enterprise Grade: **Best Rated**
+[Abts & Partners Sàrl - Enterprise Grade Classification] => Multi-Family Office
+[ABN AMRO Bank N.V., Belgium Branch - Enterprise Grade Classification] => International
+[WARN] No match found for: Industry
+[ABN AMRO Bank N.V. Frankfurt Branch - Industry] => Banking
+[WARN] No match found for: Customers names list
+[Abu Dhabi National Takaful - Industry] => Insurance
+[Abts & Partners Sàrl - Industry] => Financial Services
+[ABN AMRO Bank N.V., Belgium Branch - Industry] => Financial Services
+[WARN] No match found for: Customers names list
+[ABN AMRO Bank N.V. Frankfurt Branch - Customers names list] => Private
+[WARN] No match found for: Employee Headcount #
+[Abu Dhabi National Takaful - Customers names list] => None found.
+[Abts & Partners Sàrl - Customers names list] => Pieter Abts
+[ABN AMRO Bank N.V., Belgium Branch - Customers names list] => Private Clients
+[WARN] No match found for: Employee Headcount #
+[ABN AMRO Bank N.V. Frankfurt Branch - Employee Headcount #] => Several hundred
+[WARN] No match found for: Investors
+[Abu Dhabi National Takaful - Employee Headcount #] => "Not Available"
+[Abts & Partners Sàrl - Employee Headcount #] => Unknown
+[ABN AMRO Bank N.V., Belgium Branch - Employee Headcount #] => Approx. 500
+[WARN] No match found for: Investors
+[ABN AMRO Bank N.V. Frankfurt Branch - Investors] => Institutional
+[WARN] No match found for: Geography
+[Abu Dhabi National Takaful - Investors] => Secure Investors
+[Abts & Partners Sàrl - Investors] => Family Offices
+[ABN AMRO Bank N.V., Belgium Branch - Investors] => "Investor Relations"
+[WARN] No match found for: Geography
+[ABN AMRO Bank N.V. Frankfurt Branch - Geography] => Germany
+[WARN] No match found for: Parent company
+[Abu Dhabi National Takaful - Geography] => United Arab Emirates
+[Abts & Partners Sàrl - Geography] => Europe
+[ABN AMRO Bank N.V., Belgium Branch - Geography] => Belgium
+[WARN] No match found for: Parent company
+[ABN AMRO Bank N.V. Frankfurt Branch - Parent company] => ABN AMRO
+[WARN] No match found for: Address 1: Street 1
+[Abu Dhabi National Takaful - Parent company] => **First Gulf Bank**
+[Abts & Partners Sàrl - Parent company] => None
+[ABN AMRO Bank N.V., Belgium Branch - Parent company] => ABN AMRO Bank
+[WARN] No match found for: Address 1: Street 1
+[ABN AMRO Bank N.V. Frankfurt Branch - Address 1: Street 1] => Hochstrasse
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Abu Dhabi National Takaful - Address 1: Street 1] => Al Nahyan Building
+[Abts & Partners Sàrl - Address 1: Street 1] => Rue Haute
+[ABN AMRO Bank N.V., Belgium Branch - Address 1: Street 1] => Korte Nieuwstraat
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[ABN AMRO Bank N.V. Frankfurt Branch - Address 1: ZIP/Postal Code] => 6525
+[WARN] No match found for: Address 1: City
+[Abu Dhabi National Takaful - Address 1: ZIP/Postal Code] => Abu Dhabi
+[Abts & Partners Sàrl - Address 1: ZIP/Postal Code] => L-6540
+[ABN AMRO Bank N.V., Belgium Branch - Address 1: ZIP/Postal Code] => 1040
+[WARN] No match found for: Address 1: City
+[ABN AMRO Bank N.V. Frankfurt Branch - Address 1: City] => Frankfurt
+[WARN] No match found for: Address 1: Country/Region
+[Abu Dhabi National Takaful - Address 1: City] => Abu Dhabi
+[Abts & Partners Sàrl - Address 1: City] => Luxembourg City
+[ABN AMRO Bank N.V., Belgium Branch - Address 1: City] => Brussels
+[WARN] No match found for: Address 1: Country/Region
+[ABN AMRO Bank N.V. Frankfurt Branch - Address 1: Country/Region] => Germany
+[WARN] No match found for: Finance
+[Abu Dhabi National Takaful - Address 1: Country/Region] => United Arab Emirates
+[Abts & Partners Sàrl - Address 1: Country/Region] => Switzerland
+[ABN AMRO Bank N.V., Belgium Branch - Address 1: Country/Region] => Belgium
+[WARN] No match found for: Finance
+[ABN AMRO Bank N.V. Frankfurt Branch - Finance] => Banking
+[WARN] No match found for: Email
+[Abu Dhabi National Takaful - Finance] => Financial Services
+[Abts & Partners Sàrl - Finance] => Wealth Management
+[ABN AMRO Bank N.V., Belgium Branch - Finance] => Banking
+[WARN] No match found for: Email
+[ABN AMRO Bank N.V. Frankfurt Branch - Email] => info@abnamro.com
+[WARN] No match found for: Phone
+[Abu Dhabi National Takaful - Email] => Customer Service
+[Abts & Partners Sàrl - Email] => abts@partners.ch
+[ABN AMRO Bank N.V., Belgium Branch - Email] => info@abnamro.be
+[WARN] No match found for: Phone
+[ABN AMRO Bank N.V. Frankfurt Branch - Phone] => +49 69 1530-0
+
+🧠 Generating info for: ACAL Private Equity SICAR - SCA
+[Abu Dhabi National Takaful - Phone] => Phone: 800
+
+🧠 Generating info for: ACE Europe Sp. z..o.o
+[Abts & Partners Sàrl - Phone] => +1 917
+
+🧠 Generating info for: Achmea Bank N.V.
+[ABN AMRO Bank N.V., Belgium Branch - Phone] => +32
+
+🧠 Generating info for: ACM & Associés Sàrl
+[ACAL Private Equity SICAR - SCA - Description] => Private Equity Firm
+[ACE Europe Sp. z..o.o - Description] => International Payment
+[Achmea Bank N.V. - Description] => Financial Services
+[ACM & Associés Sàrl - Description] => Comptable Services
+[ACAL Private Equity SICAR - SCA - Software Classification] => Private Equity
+[ACE Europe Sp. z..o.o - Software Classification] => Payment Processing
+[Achmea Bank N.V. - Software Classification] => Banking Software
+[ACM & Associés Sàrl - Software Classification] => Accounting Software
+[ACAL Private Equity SICAR - SCA - Enterprise Grade Classification] => Private Equity
+[ACE Europe Sp. z..o.o - Enterprise Grade Classification] => Enterprise Grade
+[Achmea Bank N.V. - Enterprise Grade Classification] => Enterprise-grade
+[ACM & Associés Sàrl - Enterprise Grade Classification] => Small Business
+[ACAL Private Equity SICAR - SCA - Industry] => Private Equity
+[ACE Europe Sp. z..o.o - Industry] => Financial Services
+[Achmea Bank N.V. - Industry] => Financial Services
+[ACM & Associés Sàrl - Industry] => Accounting Services
+[ACAL Private Equity SICAR - SCA - Customers names list] => Luxembourg-based
+[ACE Europe Sp. z..o.o - Customers names list] => Business Clients
+[Achmea Bank N.V. - Customers names list] => None
+[ACM & Associés Sàrl - Customers names list] => Artisans, commerçants TPE
+[ACAL Private Equity SICAR - SCA - Employee Headcount #] => Private Equity
+[ACE Europe Sp. z..o.o - Employee Headcount #] => Employee: 100+
+[Achmea Bank N.V. - Employee Headcount #] => Over 6,000
+[ACM & Associés Sàrl - Employee Headcount #] => 5 Experts-Comptables
+[ACAL Private Equity SICAR - SCA - Investors] => Private Investors
+[ACE Europe Sp. z..o.o - Investors] => Institutional Investors
+[Achmea Bank N.V. - Investors] => Institutional Investors
+[ACM & Associés Sàrl - Investors] => Private Investors
+[ACAL Private Equity SICAR - SCA - Geography] => Luxembourg
+[ACE Europe Sp. z..o.o - Geography] => European Union
+[Achmea Bank N.V. - Geography] => The Netherlands
+[ACM & Associés Sàrl - Geography] => Luxembourg
+[ACAL Private Equity SICAR - SCA - Parent company] => ACAL Private
+[ACE Europe Sp. z..o.o - Parent company] => ACE Money Transfer
+[Achmea Bank N.V. - Parent company] => Centraal Beheer
+[ACM & Associés Sàrl - Parent company] => None (parent company not mentioned)
+[ACAL Private Equity SICAR - SCA - Address 1: Street 1] => Rue Jean
+[ACE Europe Sp. z..o.o - Address 1: Street 1] => ulica Armii Ludowej
+[Achmea Bank N.V. - Address 1: Street 1] => Havankade
+[ACM & Associés Sàrl - Address 1: Street 1] => Rue du Centre
+[ACAL Private Equity SICAR - SCA - Address 1: ZIP/Postal Code] => 2180 Luxembourg
+[ACE Europe Sp. z..o.o - Address 1: ZIP/Postal Code] => PL-00-001
+[Achmea Bank N.V. - Address 1: ZIP/Postal Code] => 3501KK
+[ACM & Associés Sàrl - Address 1: ZIP/Postal Code] => 1228
+[ACAL Private Equity SICAR - SCA - Address 1: City] => Luxembourg
+[ACE Europe Sp. z..o.o - Address 1: City] => Warsaw
+[Achmea Bank N.V. - Address 1: City] => Utrecht
+[ACM & Associés Sàrl - Address 1: City] => Esch-sur-Alzette
+[ACAL Private Equity SICAR - SCA - Address 1: Country/Region] => Luxembourg
+[ACE Europe Sp. z..o.o - Address 1: Country/Region] => Poland/Europe
+[Achmea Bank N.V. - Address 1: Country/Region] => Netherlands
+[ACM & Associés Sàrl - Address 1: Country/Region] => Switzerland
+[ACAL Private Equity SICAR - SCA - Finance] => Private Equity
+[ACE Europe Sp. z..o.o - Finance] => Payment Institution
+[Achmea Bank N.V. - Finance] => Banking Services
+[ACM & Associés Sàrl - Finance] => Gestion Financière
+[ACAL Private Equity SICAR - SCA - Email] => ACAL@Sicapar.com
+[ACE Europe Sp. z..o.o - Email] => info@ace-europe.com
+[Achmea Bank N.V. - Email] => info@achmea.nl
+[ACM & Associés Sàrl - Email] => contact@
+[ACAL Private Equity SICAR - SCA - Phone] => Luxembourg Phone
+
+🧠 Generating info for: Acredia Versicherung AG
+[ACE Europe Sp. z..o.o - Phone] => +48
+
+🧠 Generating info for: Acron AG
+[Achmea Bank N.V. - Phone] => 0800-02
+
+🧠 Generating info for: ACRON Lux Invest Sàrl
+
+🧠 Generating info for: ACSE Audit Conseil Services
+[ACM & Associés Sàrl - Phone] => "Numéro de téléphone" or simply "4222".
+
+🧠 Generating info for: Activotrade Valores - Agencia de Valores S.A.
+
+🧠 Generating info for: AD Fiduciam SARLS
+
+🧠 Generating info for: Adaxio
+
+🧠 Generating info for: Addiko Bank d.d.
+
+🧠 Generating info for: ADC Group SA
+[Adaxio - Description] => Immobilien-Servicer
+[Addiko Bank d.d. - Description] => Company Information
+[ADC Group SA - Description] => Access Denied
+[AD Fiduciam SARLS - Description] => Private Equity
+[Adaxio - Software Classification] => Mortgage Servicing Software
+[Addiko Bank d.d. - Software Classification] => Banking Software
+[ADC Group SA - Software Classification] => Network Management
+[AD Fiduciam SARLS - Software Classification] => Private Equity
+[Adaxio - Enterprise Grade Classification] => Enterprise Grade
+
+🧠 Generating info for: Addiko Bank dioničko društvo
+
+🧠 Generating info for: Adepa Asset Management S.A.
+
+🧠 Generating info for: AEFFE CAPITAL
+🧠 Generating info for: Aegon Bank N.V.
+
+🧠 Generating info for: ADF Comptabilité S.A.
+
+[Adepa Asset Management S.A. - Description] => Asset Management
+[AEFFE CAPITAL - Description] => Financial Advisory
+
+🧠 Generating info for: AEGON Nederland N.V.
+[ADF Comptabilité S.A. - Description] => Bureau Comptable
+[WARN] No match found for: Description
+[AEFFE CAPITAL - Software Classification] => Web Analytics
+[AEGON Nederland N.V. - Description] => Insurance Provider
+[WARN] No match found for: Software Classification
+[ADF Comptabilité S.A. - Software Classification] => Accounting and Tax
+[Adepa Asset Management S.A. - Software Classification] => Fund Administration
+[AEFFE CAPITAL - Enterprise Grade Classification] => Enterprise Grade
+[AEGON Nederland N.V. - Software Classification] => Insurance
+[WARN] No match found for: Enterprise Grade Classification
+[ADF Comptabilité S.A. - Enterprise Grade Classification] => Enterprise-grade Accounting
+[Adepa Asset Management S.A. - Enterprise Grade Classification] => Enterprise Grade.
+[AEFFE CAPITAL - Industry] => Financial Services
+[AEGON Nederland N.V. - Enterprise Grade Classification] => Insurance
+[WARN] No match found for: Industry
+[ADF Comptabilité S.A. - Industry] => Accounting Services
+[Adepa Asset Management S.A. - Industry] => Alternative Investment
+[AEFFE CAPITAL - Customers names list] => Private Clients
+[AEGON Nederland N.V. - Industry] => Insurance
+[WARN] No match found for: Customers names list
+[ADF Comptabilité S.A. - Customers names list] => None listed
+[Adepa Asset Management S.A. - Customers names list] => Asset Managers
+[AEFFE CAPITAL - Employee Headcount #] => Senior Professionals
+[AEGON Nederland N.V. - Customers names list] => Policyholders
+[WARN] No match found for: Employee Headcount #
+[ADF Comptabilité S.A. - Employee Headcount #] => Unknown number
+[Adepa Asset Management S.A. - Employee Headcount #] => Undisclosed Number
+[AEFFE CAPITAL - Investors] => Institutional
+[AEGON Nederland N.V. - Employee Headcount #] => 10,000+
+[WARN] No match found for: Investors
+[ADF Comptabilité S.A. - Investors] => Investors: Financial
+[Adepa Asset Management S.A. - Investors] => High Net Worth
+[AEFFE CAPITAL - Geography] => Luxembourg
+[AEGON Nederland N.V. - Investors] => Welcome investors
+[WARN] No match found for: Geography
+[ADF Comptabilité S.A. - Geography] => Luxembourg.
+[Adepa Asset Management S.A. - Geography] => Luxembourg-based
+[AEFFE CAPITAL - Parent company] => Aeffe Group
+[AEGON Nederland N.V. - Geography] => Netherlands
+[WARN] No match found for: Parent company
+[ADF Comptabilité S.A. - Parent company] => Bureau Comptable
+[Adepa Asset Management S.A. - Parent company] => Adepa Group
+[AEFFE CAPITAL - Address 1: Street 1] => Via della Fontana
+[AEGON Nederland N.V. - Parent company] => Aegon
+[WARN] No match found for: Address 1: Street 1
+[ADF Comptabilité S.A. - Address 1: Street 1] => Rue des Étoiles
+[Adepa Asset Management S.A. - Address 1: Street 1] => Rue Gabriel Lippmann
+[AEFFE CAPITAL - Address 1: ZIP/Postal Code] => 20132
+[AEGON Nederland N.V. - Address 1: Street 1] => Prinses Margrietlaan
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[ADF Comptabilité S.A. - Address 1: ZIP/Postal Code] => L-4552
+[Adepa Asset Management S.A. - Address 1: ZIP/Postal Code] => 5365 Munsbach
+[AEFFE CAPITAL - Address 1: City] => Luxembourg City
+[AEGON Nederland N.V. - Address 1: ZIP/Postal Code] => 3511
+[WARN] No match found for: Address 1: City
+[ADF Comptabilité S.A. - Address 1: City] => Pétange
+[Adepa Asset Management S.A. - Address 1: City] => Munsbach
+[AEFFE CAPITAL - Address 1: Country/Region] => Luxembourg
+[AEGON Nederland N.V. - Address 1: City] => Utrecht
+[WARN] No match found for: Address 1: Country/Region
+[ADF Comptabilité S.A. - Address 1: Country/Region] => Luxembourg
+[Adepa Asset Management S.A. - Address 1: Country/Region] => Luxembourg
+[AEFFE CAPITAL - Finance] => Corporate Finance
+[AEGON Nederland N.V. - Address 1: Country/Region] => Netherlands
+[WARN] No match found for: Finance
+[ADF Comptabilité S.A. - Finance] => Accounting Finance
+[Adepa Asset Management S.A. - Finance] => Alternative Investment
+[AEFFE CAPITAL - Email] => a.fontanarosa
+[AEGON Nederland N.V. - Finance] => Insurance
+[WARN] No match found for: Email
+[ADF Comptabilité S.A. - Email] => adfcompta@
+[Adepa Asset Management S.A. - Email] => info@adepa.com
+[AEFFE CAPITAL - Phone] => +352 669 020
+
+🧠 Generating info for: Aethiqs
+[AEGON Nederland N.V. - Email] => Contactus
+[WARN] No match found for: Phone
+[ADF Comptabilité S.A. - Phone] => 26 50 04
+
+🧠 Generating info for: AFI ESCA Luxembourg
+[Adepa Asset Management S.A. - Phone] => +32 2 535...
+
+🧠 Generating info for: AGEAS Group
+[Aethiqs - Description] => "Human Capital"
+[AEGON Nederland N.V. - Phone] => +31-30-226
+
+🧠 Generating info for: Agir Luxembourg S.A.
+[AFI ESCA Luxembourg - Description] => Error message
+[AGEAS Group - Description] => Insurance Solutions
+[Aethiqs - Software Classification] => Risk Management Software.
+[Agir Luxembourg S.A. - Description] => Comptable Service
+[AFI ESCA Luxembourg - Software Classification] => Error Handling
+[AGEAS Group - Software Classification] => Insurance Software
+[Aethiqs - Enterprise Grade Classification] => Enterprise Grade: Premium
+[Agir Luxembourg S.A. - Software Classification] => Accounting Software
+[AFI ESCA Luxembourg - Enterprise Grade Classification] => Service Unavailable
+[AGEAS Group - Enterprise Grade Classification] => Enterprise-Grade Insurance
+[Aethiqs - Industry] => Management Consulting
+[Agir Luxembourg S.A. - Enterprise Grade Classification] => Strategic Partner
+[AFI ESCA Luxembourg - Industry] => Financial Services
+[AGEAS Group - Industry] => Financial Services
+[Aethiqs - Customers names list] => AethiQs customers
+[Agir Luxembourg S.A. - Industry] => Accounting services
+[AFI ESCA Luxembourg - Customers names list] => None found.
+[AGEAS Group - Customers names list] => AGEAS Customers
+[Aethiqs - Employee Headcount #] => 25 personeel
+[Agir Luxembourg S.A. - Customers names list] => Agir Luxembourg
+[AFI ESCA Luxembourg - Employee Headcount #] => Non Available
+[AGEAS Group - Employee Headcount #] => 50,000 employees
+[Aethiqs - Investors] => Investors: Institutional
+[Agir Luxembourg S.A. - Employee Headcount #] => Multiple employees
+[AFI ESCA Luxembourg - Investors] => None
+[AGEAS Group - Investors] => "Learn More"
+[Aethiqs - Geography] => Nederlanden
+[Agir Luxembourg S.A. - Investors] => Strategic Partner
+[AFI ESCA Luxembourg - Geography] => Luxembourg
+[AGEAS Group - Geography] => Europe-Asia
+[Aethiqs - Parent company] => Ernst & Young
+[Agir Luxembourg S.A. - Geography] => Luxembourg
+[AFI ESCA Luxembourg - Parent company] => Groupama S.A.
+[AGEAS Group - Parent company] => KBC Group
+[Aethiqs - Address 1: Street 1] => Amsterdamseweg
+[Agir Luxembourg S.A. - Parent company] => Groupe Agir
+[AFI ESCA Luxembourg - Address 1: Street 1] => Rue Henri Tudor
+[AGEAS Group - Address 1: Street 1] => Avenue du Boulevard
+[Aethiqs - Address 1: ZIP/Postal Code] => 1114
+[Agir Luxembourg S.A. - Address 1: Street 1] => 25B Boulevard
+[AFI ESCA Luxembourg - Address 1: ZIP/Postal Code] => L-4550
+[AGEAS Group - Address 1: ZIP/Postal Code] => 1040 Brussels
+[Aethiqs - Address 1: City] => Utrecht
+[Agir Luxembourg S.A. - Address 1: ZIP/Postal Code] => L-2449
+[AFI ESCA Luxembourg - Address 1: City] => Luxembourg City
+[AGEAS Group - Address 1: City] => Brussels
+[Aethiqs - Address 1: Country/Region] => Nederland
+[Agir Luxembourg S.A. - Address 1: City] => Luxembourg City
+[AFI ESCA Luxembourg - Address 1: Country/Region] => Luxembourg
+[AGEAS Group - Address 1: Country/Region] => Belgium/Netherlands
+
+🧠 Generating info for: AGORA Immobilien GmbH
+[Aethiqs - Finance] => Financiële sector
+[Agir Luxembourg S.A. - Address 1: Country/Region] => Luxembourg
+[AFI ESCA Luxembourg - Finance] => "Non disponible"
+[AGORA Immobilien GmbH - Description] => Real Estate
+[Aethiqs - Email] => **Protected email**
+[Agir Luxembourg S.A. - Finance] => "Services financiers"
+[AFI ESCA Luxembourg - Email] => Réessayez plus tard.
+[AGORA Immobilien GmbH - Software Classification] => Property Management
+[Aethiqs - Phone] => 085-0866389
+
+🧠 Generating info for: AGPM
+[WARN] No match found for: Description
+[Agir Luxembourg S.A. - Email] => Contact@agirluxembourg.com
+[AFI ESCA Luxembourg - Phone] => Téléphone
+
+🧠 Generating info for: Agrica
+[AGORA Immobilien GmbH - Enterprise Grade Classification] => Enterprise Grade: Premium
+[AGPM - Description] => Please provide the web content related to AGPM. I'll be happy to help you with the description!
+[WARN] No match found for: Software Classification
+[Agir Luxembourg S.A. - Phone] => +352 47
+
+🧠 Generating info for: Ahead Wealth Solutions AG
+[Agrica - Description] => Crop Nutrition
+[AGORA Immobilien GmbH - Industry] => Real Estate
+[AGPM - Software Classification] => Please go ahead and provide the web content related to AGPM. I'll do my best to come up with a software classification based on the context.
+[WARN] No match found for: Enterprise Grade Classification
+[Ahead Wealth Solutions AG - Description] => Financial Service Provider
+[Agrica - Software Classification] => Agricultural Software
+[AGORA Immobilien GmbH - Customers names list] => In this case, I would answer:
+
+Homeowners and Investors
+[AGPM - Enterprise Grade Classification] => High-End
+[WARN] No match found for: Industry
+[Ahead Wealth Solutions AG - Software Classification] => Fund Administration
+[Agrica - Enterprise Grade Classification] => Enterprise Grade: Professional
+[AGORA Immobilien GmbH - Employee Headcount #] => Over 200
+[AGPM - Industry] => Aerospace
+[WARN] No match found for: Customers names list
+[Ahead Wealth Solutions AG - Enterprise Grade Classification] => Enterprise-grade: High Net Worth
+[Agrica - Industry] => Agriculture
+[AGORA Immobilien GmbH - Investors] => Private Investors
+[AGPM - Customers names list] => I'm happy to help!
+
+Please provide the web content related to AGPM, and I'll do my best to provide a single word or very short phrase (maximum 3 words) that answers the column titled "Customers names list".
+[WARN] No match found for: Employee Headcount #
+[Ahead Wealth Solutions AG - Industry] => Financial Services
+[Agrica - Customers names list] => Growers' Association
+[AGORA Immobilien GmbH - Geography] => Österreich
+[AGPM - Employee Headcount #] => Unknown
+[WARN] No match found for: Investors
+[Ahead Wealth Solutions AG - Customers names list] => Ahead Clients
+[Agrica - Employee Headcount #] => Employee Count
+[AGORA Immobilien GmbH - Parent company] => Erste Group
+[AGPM - Investors] => Institutional
+[WARN] No match found for: Geography
+[Ahead Wealth Solutions AG - Employee Headcount #] => Multi-Family Office
+[Agrica - Investors] => Institutional.
+[AGORA Immobilien GmbH - Address 1: Street 1] => Wiener Graben
+[AGPM - Geography] => Global
+[WARN] No match found for: Parent company
+[Ahead Wealth Solutions AG - Investors] => Institutional Investors
+[Agrica - Geography] => Global agricultural
+[AGORA Immobilien GmbH - Address 1: ZIP/Postal Code] => 1030
+[AGPM - Parent company] => AGP Inc.
+[WARN] No match found for: Address 1: Street 1
+[Ahead Wealth Solutions AG - Geography] => Liechtenstein-based
+[Agrica - Parent company] => Syngenta Group
+[AGORA Immobilien GmbH - Address 1: City] => Wien
+[AGPM - Address 1: Street 1] => Parkway Drive
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Ahead Wealth Solutions AG - Parent company] => Liechtensteinische Landesbank
+[Agrica - Address 1: Street 1] => **979-353-Agrica**
+[AGORA Immobilien GmbH - Address 1: Country/Region] => Austria
+[AGPM - Address 1: ZIP/Postal Code] => 10423
+[WARN] No match found for: Address 1: City
+[Ahead Wealth Solutions AG - Address 1: Street 1] => Schellenbergstrasse
+[Agrica - Address 1: ZIP/Postal Code] => 77815
+[AGORA Immobilien GmbH - Finance] => Real Estate
+[AGPM - Address 1: City] => Melbourne
+[WARN] No match found for: Address 1: Country/Region
+[Ahead Wealth Solutions AG - Address 1: ZIP/Postal Code] => 7550
+[Agrica - Address 1: City] => Houston
+[AGORA Immobilien GmbH - Email] => Office.Agora
+[AGPM - Address 1: Country/Region] => Australia
+[WARN] No match found for: Finance
+[Ahead Wealth Solutions AG - Address 1: City] => Vaduz
+[Agrica - Address 1: Country/Region] => United States
+[AGORA Immobilien GmbH - Phone] => +43-1-505-5555
+
+🧠 Generating info for: Ahoy Club Pty Ltd
+[AGPM - Finance] => Stable Growth
+[WARN] No match found for: Email
+[Ahead Wealth Solutions AG - Address 1: Country/Region] => Liechtenstein
+[Agrica - Finance] => Crop Nutrition
+[Ahoy Club Pty Ltd - Description] => Luxury Yacht Charter
+[AGPM - Email] => AGPMinfo@agpm.com
+[WARN] No match found for: Phone
+[Ahead Wealth Solutions AG - Finance] => **Fund Administration**
+[Agrica - Email] => "AgricaEmail"
+[Ahoy Club Pty Ltd - Software Classification] => Yacht Management
+[AGPM - Phone] => (555) 1234
+
+🧠 Generating info for: Aid Compliance Limited
+[Ahead Wealth Solutions AG - Email] => info@ahead.li
+[Agrica - Phone] => "Phone Number"
+
+🧠 Generating info for: AIF Alternativ Invest Finance AG
+[Ahoy Club Pty Ltd - Enterprise Grade Classification] => Enterprise Grade.
+[Aid Compliance Limited - Description] => Compliance Services
+[Ahead Wealth Solutions AG - Phone] => +423 239 85 00
+
+🧠 Generating info for: AK Business Services SARL
+[WARN] No match found for: Description
+[AIF Alternativ Invest Finance AG - Description] => Asset Management
+[Ahoy Club Pty Ltd - Industry] => Marine Industry
+[Aid Compliance Limited - Software Classification] => Compliance Software
+[AK Business Services SARL - Description] => Business Consulting
+[WARN] No match found for: Software Classification
+[AIF Alternativ Invest Finance AG - Software Classification] => Asset Management
+[Ahoy Club Pty Ltd - Customers names list] => Yacht Owners
+[Aid Compliance Limited - Enterprise Grade Classification] => Enterprise Grade
+[AK Business Services SARL - Software Classification] => Accounting Software
+[WARN] No match found for: Enterprise Grade Classification
+[AIF Alternativ Invest Finance AG - Enterprise Grade Classification] => Enterprise Grade
+[Ahoy Club Pty Ltd - Employee Headcount #] => Employee Headcount: Unknown
+[Aid Compliance Limited - Industry] => Financial Services
+[AK Business Services SARL - Enterprise Grade Classification] => Professional
+
+🧠 Generating info for: Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS)
+[WARN] No match found for: Industry
+[AIF Alternativ Invest Finance AG - Industry] => Alternative Finance
+[Aid Compliance Limited - Customers names list] => None
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Description] => Insurance Company
+[AK Business Services SARL - Industry] => Business Services
+[WARN] No match found for: Customers names list
+[AIF Alternativ Invest Finance AG - Customers names list] => Hedge Fund Experts
+[Aid Compliance Limited - Employee Headcount #] => Small Team
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Software Classification] => Insurance software
+[AK Business Services SARL - Customers names list] => Multinational companies
+[WARN] No match found for: Employee Headcount #
+[AIF Alternativ Invest Finance AG - Employee Headcount #] => Employee Count: "Not Provided"
+[Aid Compliance Limited - Investors] => Financial Investors
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Enterprise Grade Classification] => Enterprise Insurance
+[AK Business Services SARL - Employee Headcount #] => Unknown
+[WARN] No match found for: Investors
+[AIF Alternativ Invest Finance AG - Investors] => Institutional
+[Aid Compliance Limited - Geography] => European Union
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Industry] => Insurance
+[AK Business Services SARL - Investors] => Innovative Opportunities
+[WARN] No match found for: Geography
+[AIF Alternativ Invest Finance AG - Geography] => Liechtenstein
+[Aid Compliance Limited - Parent company] => Parent company: None
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Customers names list] => Dear Customers
+[AK Business Services SARL - Geography] => Lebanon
+[WARN] No match found for: Parent company
+[AIF Alternativ Invest Finance AG - Parent company] => AIF AG
+[Aid Compliance Limited - Address 1: Street 1] => Tower Road
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Employee Headcount #] => Employee count: "Few dozen"
+[AK Business Services SARL - Parent company] => None
+[WARN] No match found for: Address 1: Street 1
+[AIF Alternativ Invest Finance AG - Address 1: Street 1] => Giessenstrasse
+[Aid Compliance Limited - Address 1: ZIP/Postal Code] => W1B 5JY
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Investors] => Potential Investors
+[AK Business Services SARL - Address 1: Street 1] => Rue des Roses
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[AIF Alternativ Invest Finance AG - Address 1: ZIP/Postal Code] => 9491
+[Aid Compliance Limited - Address 1: City] => **Birkirkara**
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Geography] => Estonia
+[AK Business Services SARL - Address 1: ZIP/Postal Code] => 1080
+[WARN] No match found for: Address 1: City
+[AIF Alternativ Invest Finance AG - Address 1: City] => Ruggell
+[Aid Compliance Limited - Address 1: Country/Region] => European Union
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Parent company] => Inges Kindlustus
+[AK Business Services SARL - Address 1: City] => Geneva
+[WARN] No match found for: Address 1: Country/Region
+[AIF Alternativ Invest Finance AG - Address 1: Country/Region] => Liechtenstein
+[Aid Compliance Limited - Finance] => Risk Management
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Address 1: Street 1] => Liivalaia 45
+[AK Business Services SARL - Address 1: Country/Region] => Switzerland
+[WARN] No match found for: Finance
+[AIF Alternativ Invest Finance AG - Finance] => Alternative Finance
+[Aid Compliance Limited - Email] => Stay Informed
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Address 1: ZIP/Postal Code] => 10145
+[AK Business Services SARL - Finance] => Accounting
+[WARN] No match found for: Email
+[AIF Alternativ Invest Finance AG - Email] => Info@aif
+[Aid Compliance Limited - Phone] => Contact Us
+
+🧠 Generating info for: Al Manara Insurance
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Address 1: City] => Tallinn
+[AK Business Services SARL - Email] => info@akbsl.com
+[WARN] No match found for: Phone
+[AIF Alternativ Invest Finance AG - Phone] => Phone: +423 375 0333
+
+🧠 Generating info for: Al-Bahriah Insurance & Reinsurance sal
+[Al Manara Insurance - Description] => Insurance Provider
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Address 1: Country/Region] => Estonia
+[AK Business Services SARL - Phone] => +33
+
+🧠 Generating info for: Alean Capital AG
+[Al-Bahriah Insurance & Reinsurance sal - Description] => Legal Disclaimers
+[Al Manara Insurance - Software Classification] => Insurance Management
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Finance] => Insurance
+[Alean Capital AG - Description] => Asset Management
+[Al-Bahriah Insurance & Reinsurance sal - Software Classification] => Web Content Software
+[Al Manara Insurance - Enterprise Grade Classification] => Enterprise Grade
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Email] => Elama email
+[Alean Capital AG - Software Classification] => Asset Management
+[Al-Bahriah Insurance & Reinsurance sal - Enterprise Grade Classification] => Enterprise Grade
+[Al Manara Insurance - Industry] => Insurance
+[Aktsiaselts INGES KINDLUSTUS (New name: Elama Kindlustus AS) - Phone] => Phone: +372
+
+🧠 Generating info for: Al-Khaleej Takaful Insurance Co.
+[Alean Capital AG - Enterprise Grade Classification] => InstitutionalGrade
+[Al-Bahriah Insurance & Reinsurance sal - Industry] => Marine Insurance
+[Al Manara Insurance - Customers names list] => None Provided
+[Al-Khaleej Takaful Insurance Co. - Description] => Insurance Services
+[Alean Capital AG - Industry] => Asset Management
+[Al-Bahriah Insurance & Reinsurance sal - Customers names list] => No customers list.
+[Al Manara Insurance - Employee Headcount #] => "Over 4,600"
+[Al-Khaleej Takaful Insurance Co. - Software Classification] => Insurance Policy
+[Alean Capital AG - Customers names list] => Institutionen
+[Al-Bahriah Insurance & Reinsurance sal - Employee Headcount #] => Employee Count: Unknown
+[Al Manara Insurance - Investors] => Global Investors
+[Al-Khaleej Takaful Insurance Co. - Enterprise Grade Classification] => Enterprise Grade: Advanced
+[Alean Capital AG - Employee Headcount #] => "Several Hundred"
+[Al-Bahriah Insurance & Reinsurance sal - Investors] => Potential Investors
+[Al Manara Insurance - Geography] => Jordan
+[Al-Khaleej Takaful Insurance Co. - Industry] => Insurance
+[Alean Capital AG - Investors] => "Institutional Investors"
+[Al-Bahriah Insurance & Reinsurance sal - Geography] => Lebanon-based
+[Al Manara Insurance - Parent company] => Global Investment House
+[Al-Khaleej Takaful Insurance Co. - Customers names list] => No Customers
+[Alean Capital AG - Geography] => Liechtenstein
+[Al-Bahriah Insurance & Reinsurance sal - Parent company] => Saudi Investments
+[Al Manara Insurance - Address 1: Street 1] => Amman Street
+[Al-Khaleej Takaful Insurance Co. - Employee Headcount #] => **Employee Headcount**: Thousands
+[Alean Capital AG - Parent company] => Alean Capital AG
+[Al-Bahriah Insurance & Reinsurance sal - Address 1: Street 1] => Al-Khobar Street
+[Al Manara Insurance - Address 1: ZIP/Postal Code] => Amman 11110
+[Al-Khaleej Takaful Insurance Co. - Investors] => Investors Relations
+[Alean Capital AG - Address 1: Street 1] => Neugasse 15
+[Al-Bahriah Insurance & Reinsurance sal - Address 1: ZIP/Postal Code] => Lebanon
+[Al Manara Insurance - Address 1: City] => Amman City
+[Al-Khaleej Takaful Insurance Co. - Geography] => Qatar-based
+[Alean Capital AG - Address 1: ZIP/Postal Code] => 9490 Vaduz
+[Al-Bahriah Insurance & Reinsurance sal - Address 1: City] => Beirut
+[Al Manara Insurance - Address 1: Country/Region] => Jordan
+[Al-Khaleej Takaful Insurance Co. - Parent company] => Al-Khaleej Group
+[Alean Capital AG - Address 1: City] => Vaduz
+[Al-Bahriah Insurance & Reinsurance sal - Address 1: Country/Region] => Lebanon
+[Al Manara Insurance - Finance] => Financial Services
+[Al-Khaleej Takaful Insurance Co. - Address 1: Street 1] => Al-Khaleej Street
+[Alean Capital AG - Address 1: Country/Region] => Liechtenstein
+[Al-Bahriah Insurance & Reinsurance sal - Finance] => Financial Services
+[Al Manara Insurance - Email] => info@almna.com
+[Al-Khaleej Takaful Insurance Co. - Address 1: ZIP/Postal Code] => 74080
+[Alean Capital AG - Finance] => Asset Management
+[Al-Bahriah Insurance & Reinsurance sal - Email] => "Confidential Email"
+[Al Manara Insurance - Phone] => "Customer Service"
+
+🧠 Generating info for: Alliance Insurance
+[Al-Khaleej Takaful Insurance Co. - Address 1: City] => Doha City
+[Alean Capital AG - Email] => info@aleancapital.com
+[Al-Bahriah Insurance & Reinsurance sal - Phone] => Phone Number
+
+🧠 Generating info for: Allianz Saudi Fransi
+[Alliance Insurance - Description] => Insurance Services
+[Al-Khaleej Takaful Insurance Co. - Address 1: Country/Region] => Qatar/Region
+[Alean Capital AG - Phone] => T.+423
+
+🧠 Generating info for: Alpha Management B.V.
+[WARN] No match found for: Description
+[Allianz Saudi Fransi - Description] => Insurance Company
+[Alliance Insurance - Software Classification] => Insurance Policy
+[Al-Khaleej Takaful Insurance Co. - Finance] => "Policy Payments"
+[Alpha Management B.V. - Description] => I'm ready! Please provide the web content related to Alpha Management B.V.
+[WARN] No match found for: Software Classification
+[Allianz Saudi Fransi - Software Classification] => Insurance Systems
+[Alliance Insurance - Enterprise Grade Classification] => Reliable Security
+[Al-Khaleej Takaful Insurance Co. - Email] => info@al-khaleejtakaful.com.qa
+[Alpha Management B.V. - Software Classification] => ERP Solution
+[WARN] No match found for: Enterprise Grade Classification
+[Allianz Saudi Fransi - Enterprise Grade Classification] => Enterprise-grade
+[Alliance Insurance - Industry] => Insurance
+[Al-Khaleej Takaful Insurance Co. - Phone] => Phone: +974
+
+🧠 Generating info for: Alpha Private Equity Funds - Management Company
+[Alpha Management B.V. - Enterprise Grade Classification] => Professional Services
+[WARN] No match found for: Industry
+[Allianz Saudi Fransi - Industry] => Insurance
+[Alliance Insurance - Customers names list] => Policyholders
+[Alpha Private Equity Funds - Management Company - Description] => Private Equity Firm
+[Alpha Management B.V. - Industry] => Financial Services
+[WARN] No match found for: Customers names list
+[Allianz Saudi Fransi - Customers names list] => No customers' names list.
+[Alliance Insurance - Employee Headcount #] => 100+
+[Alpha Private Equity Funds - Management Company - Software Classification] => Private Equity
+[Alpha Management B.V. - Customers names list] => I cannot provide information about Alpha Management B.V.'s customers. Can I help you with anything else?
+[WARN] No match found for: Employee Headcount #
+[Allianz Saudi Fransi - Employee Headcount #] => "10,000+ employees"
+[Alliance Insurance - Investors] => Welcome Investors
+[Alpha Private Equity Funds - Management Company - Enterprise Grade Classification] => Enterprise Grade
+[Alpha Management B.V. - Employee Headcount #] => 200+
+[WARN] No match found for: Investors
+[Allianz Saudi Fransi - Investors] => Investor Relations
+[Alliance Insurance - Geography] => Global Presence
+[Alpha Private Equity Funds - Management Company - Industry] => Private Equity
+[Alpha Management B.V. - Investors] => Welcome Investors
+[WARN] No match found for: Geography
+[Allianz Saudi Fransi - Geography] => Saudi Arabia
+[Alliance Insurance - Parent company] => Lockton Companies
+[Alpha Private Equity Funds - Management Company - Customers names list] => Investors
+[Alpha Management B.V. - Geography] => Netherlands
+[WARN] No match found for: Parent company
+[Allianz Saudi Fransi - Parent company] => Allianz Group
+[Alliance Insurance - Address 1: Street 1] => One Liberty Place
+[Alpha Private Equity Funds - Management Company - Employee Headcount #] => "Multicultural Team"
+[Alpha Management B.V. - Parent company] => None
+[WARN] No match found for: Address 1: Street 1
+[Allianz Saudi Fransi - Address 1: Street 1] => King Fahad St
+[Alliance Insurance - Address 1: ZIP/Postal Code] => 90072
+[Alpha Private Equity Funds - Management Company - Investors] => Institutional
+[Alpha Management B.V. - Address 1: Street 1] => Havenstraat
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Allianz Saudi Fransi - Address 1: ZIP/Postal Code] => 12561
+[Alliance Insurance - Address 1: City] => Pittsburgh
+[Alpha Private Equity Funds - Management Company - Geography] => Global Portfolio
+[Alpha Management B.V. - Address 1: ZIP/Postal Code] => 1016
+[WARN] No match found for: Address 1: City
+[Allianz Saudi Fransi - Address 1: City] => Riyadh
+[Alliance Insurance - Address 1: Country/Region] => United States
+[Alpha Private Equity Funds - Management Company - Parent company] => Independent Private Equity
+[Alpha Management B.V. - Address 1: City] => Amsterdam
+[WARN] No match found for: Address 1: Country/Region
+[Allianz Saudi Fransi - Address 1: Country/Region] => Saudi Arabia
+[Alliance Insurance - Finance] => Insurance Funds
+[Alpha Private Equity Funds - Management Company - Address 1: Street 1] => Rue de la Tour
+[Alpha Management B.V. - Address 1: Country/Region] => Netherlands
+[WARN] No match found for: Finance
+[Allianz Saudi Fransi - Finance] => Insurance
+[Alliance Insurance - Email] => info@allianceinsurance.com
+[Alpha Private Equity Funds - Management Company - Address 1: ZIP/Postal Code] => 75014
+[Alpha Management B.V. - Finance] => Consultancy
+[WARN] No match found for: Email
+[Allianz Saudi Fransi - Email] => Contact Centre
+[Alliance Insurance - Phone] => 1800ALLIANCE
+
+🧠 Generating info for: Alpina Fund Management S.A.
+[Alpha Private Equity Funds - Management Company - Address 1: City] => Luxembourg City
+[Alpha Management B.V. - Email] => info@alphamanagement.nl
+[WARN] No match found for: Phone
+[Allianz Saudi Fransi - Phone] => "Contact Centre"
+
+🧠 Generating info for: ALPLA Werke Alwin Lehner GmbH & Co KG
+[Alpina Fund Management S.A. - Description] => Private Label
+[Alpha Private Equity Funds - Management Company - Address 1: Country/Region] => European
+[Alpha Management B.V. - Phone] => +31
+
+🧠 Generating info for: Alsa Ventures Ltd
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Description] => Plastic Packaging
+[Alpina Fund Management S.A. - Software Classification] => Fund Administration
+[Alpha Private Equity Funds - Management Company - Finance] => Private Equity
+[Alsa Ventures Ltd - Description] => Life Science Investor
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Software Classification] => ERP Systems
+[Alpina Fund Management S.A. - Enterprise Grade Classification] => Enterprise Grade
+[Alpha Private Equity Funds - Management Company - Email] => investorinfo@alphapec.com
+[Alsa Ventures Ltd - Software Classification] => Therapeutic Software
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Enterprise Grade Classification] => Enterprise-grade: **Large-cap**
+[Alpina Fund Management S.A. - Industry] => Wealth Management
+[Alpha Private Equity Funds - Management Company - Phone] => Phone: +31...
+
+🧠 Generating info for: ALTE LEIPZIGER Lebensversicherung a.G.
+[Alsa Ventures Ltd - Enterprise Grade Classification] => Biotech-focused
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Industry] => Plastic Packaging Industry
+[Alpina Fund Management S.A. - Customers names list] => Investors
+[ALTE LEIPZIGER Lebensversicherung a.G. - Description] => Versicherungen und Finanzen
+[Alsa Ventures Ltd - Industry] => Biotech Investments
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Customers names list] => Global Brands
+[Alpina Fund Management S.A. - Employee Headcount #] => 100+ Employees
+[ALTE LEIPZIGER Lebensversicherung a.G. - Software Classification] => Financial Software
+[Alsa Ventures Ltd - Customers names list] => Biotech Companies
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Employee Headcount #] => Around 10,000
+[Alpina Fund Management S.A. - Investors] => High-Net-Worth
+[ALTE LEIPZIGER Lebensversicherung a.G. - Enterprise Grade Classification] => Enterprise Grade
+[Alsa Ventures Ltd - Employee Headcount #] => "Not disclosed"
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Investors] => Investors: Shareholders
+[Alpina Fund Management S.A. - Geography] => Swiss-based
+[ALTE LEIPZIGER Lebensversicherung a.G. - Industry] => Financial Services
+[Alsa Ventures Ltd - Investors] => Biotech Investors
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Geography] => Global presence
+[Alpina Fund Management S.A. - Parent company] => Alpina Fund
+[ALTE LEIPZIGER Lebensversicherung a.G. - Customers names list] => Kundenportal fin4u
+[Alsa Ventures Ltd - Geography] => United Kingdom
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Parent company] => Lehner Group
+[Alpina Fund Management S.A. - Address 1: Street 1] => Seestrasse 18
+[ALTE LEIPZIGER Lebensversicherung a.G. - Employee Headcount #] => Approx. 400
+[Alsa Ventures Ltd - Parent company] => ASLA Holdings
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Address 1: Street 1] => Schulstrasse 15
+[Alpina Fund Management S.A. - Address 1: ZIP/Postal Code] => Zurich, 8608
+[ALTE LEIPZIGER Lebensversicherung a.G. - Investors] => Investor: Insurer
+[Alsa Ventures Ltd - Address 1: Street 1] => Pall Mall
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Address 1: ZIP/Postal Code] => D-51756
+[Alpina Fund Management S.A. - Address 1: City] => Zurich
+[ALTE LEIPZIGER Lebensversicherung a.G. - Geography] => Deutschland
+[Alsa Ventures Ltd - Address 1: ZIP/Postal Code] => SW1Y 5ES
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Address 1: City] => Schwanfeld
+[Alpina Fund Management S.A. - Address 1: Country/Region] => Switzerland
+[ALTE LEIPZIGER Lebensversicherung a.G. - Parent company] => ALTE LEIPZIGER
+[Alsa Ventures Ltd - Address 1: City] => London
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Address 1: Country/Region] => Germany
+[Alpina Fund Management S.A. - Finance] => Asset Management
+[ALTE LEIPZIGER Lebensversicherung a.G. - Address 1: Street 1] => Leipziger Strasse
+[Alsa Ventures Ltd - Address 1: Country/Region] => United Kingdom
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Finance] => Financial Services
+[Alpina Fund Management S.A. - Email] => info@alpina.capital
+[ALTE LEIPZIGER Lebensversicherung a.G. - Address 1: ZIP/Postal Code] => 04109
+[Alsa Ventures Ltd - Finance] => Regulated Entity
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Email] => Contact us
+[Alpina Fund Management S.A. - Phone] => +41 44
+
+🧠 Generating info for: ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit
+[ALTE LEIPZIGER Lebensversicherung a.G. - Address 1: City] => Leipzig
+[Alsa Ventures Ltd - Email] => info@alsaventures.com
+[ALPLA Werke Alwin Lehner GmbH & Co KG - Phone] => Phone: +49
+
+🧠 Generating info for: Altiqa Multi Family Office SAM
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Description] => Finanzdienstleister
+[ALTE LEIPZIGER Lebensversicherung a.G. - Address 1: Country/Region] => Germany
+[Alsa Ventures Ltd - Phone] => 78 Pall Mall
+
+🧠 Generating info for: Altiqa SA (Lugano)
+[Altiqa Multi Family Office SAM - Description] => Relocation Services
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Software Classification] => Digital Insurance
+[ALTE LEIPZIGER Lebensversicherung a.G. - Finance] => Financial Services
+[Altiqa SA (Lugano) - Description] => Relocation Services
+[Altiqa Multi Family Office SAM - Software Classification] => Financial Advisory
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Enterprise Grade Classification] => Enterprise Grade: Premium
+[ALTE LEIPZIGER Lebensversicherung a.G. - Email] => Rückruf-Service
+[Altiqa SA (Lugano) - Software Classification] => Tax and Financial
+[Altiqa Multi Family Office SAM - Enterprise Grade Classification] => Enterprise Grade.
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Industry] => Life Insurance
+[ALTE LEIPZIGER Lebensversicherung a.G. - Phone] => "Montags-Freitags 8:00-18:00"
+[Altiqa SA (Lugano) - Enterprise Grade Classification] => Enterprise Grade: Top Shelf
+[Altiqa Multi Family Office SAM - Industry] => Family Office
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Customers names list] => Kundenportal fin4u
+[Altiqa SA (Lugano) - Industry] => Professional Services
+[Altiqa Multi Family Office SAM - Customers names list] => High Net Worth
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Employee Headcount #] => Employee: Several
+[Altiqa SA (Lugano) - Customers names list] => Individuals and Corporates
+[Altiqa Multi Family Office SAM - Employee Headcount #] => Few hundred.
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Investors] => Investors: Private.
+[Altiqa SA (Lugano) - Employee Headcount #] => Over 40
+[Altiqa Multi Family Office SAM - Investors] => Private Wealth
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Geography] => Deutschland
+[Altiqa SA (Lugano) - Investors] => "Investors: Welcome"
+[Altiqa Multi Family Office SAM - Geography] => Swiss/European
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Parent company] => AL Te Lebens
+[Altiqa SA (Lugano) - Geography] => Lugano/Switzerland
+[Altiqa Multi Family Office SAM - Parent company] => Altiqa Group
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Address 1: Street 1] => Augustusburger Str.
+[Altiqa SA (Lugano) - Parent company] => Altiqa SA
+[Altiqa Multi Family Office SAM - Address 1: Street 1] => Via Felice Allimani
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Address 1: ZIP/Postal Code] => 09115
+[Altiqa SA (Lugano) - Address 1: Street 1] => Via Nassa
+[Altiqa Multi Family Office SAM - Address 1: ZIP/Postal Code] => CH-6900
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Address 1: City] => Leipzig
+[Altiqa SA (Lugano) - Address 1: ZIP/Postal Code] => 6604
+[Altiqa Multi Family Office SAM - Address 1: City] => Lugano
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Address 1: Country/Region] => Germany
+[Altiqa SA (Lugano) - Address 1: City] => Lugano
+[Altiqa Multi Family Office SAM - Address 1: Country/Region] => Switzerland
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Finance] => Finanzdienstleistungen
+[Altiqa SA (Lugano) - Address 1: Country/Region] => Switzerland
+[Altiqa Multi Family Office SAM - Finance] => Financial Consulting
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Email] => Kundenportal fin4u
+[Altiqa SA (Lugano) - Finance] => Financial Consulting
+[Altiqa Multi Family Office SAM - Email] => info@altiqa.com
+[ALTE LEIPZIGER Lebensversicherung auf Gegenseitigkeit - Phone] => Rückruf-Service
+[Altiqa SA (Lugano) - Email] => info@altiqa.ch
+[Altiqa Multi Family Office SAM - Phone] => +41
+[Altiqa SA (Lugano) - Phone] => +41 91...

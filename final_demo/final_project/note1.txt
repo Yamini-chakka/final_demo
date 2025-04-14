@@ -1,0 +1,178 @@
+
+🚀 Processing company: Altiqa SAM
+[INFO] Scraping: https://altiqa.group/en
+
+🚀 Processing company: Altrafin AG
+[INFO] Scraping: https://altrafin.com/en/
+[ERROR] Failed to scrape https://altrafin.com/en/: HTTPSConnectionPool(host='altrafin.com', port=443): Max retries exceeded with url: /en/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E2DE1648F0>: Failed to resolve 'altrafin.com' ([Errno 11001] getaddrinfo failed)"))
+
+🚀 Processing company: Altum Luxembourg S.A.
+[INFO] Scraping: https://altumgroup.com/locations/luxembourg/
+
+🚀 Processing company: Ama Thynk Limited
+[INFO] Scraping: https://thynk.cloud/
+
+🚀 Processing company: AManco S.A.
+[INFO] Scraping: https://www.amanco.com.sa/
+
+🚀 Processing company: AMAXX Consulting Sarl
+[INFO] Scraping: https://www.amaxx-consulting.com/
+
+🚀 Processing company: American International Group (UK) Limited
+[INFO] Scraping: https://www.aig.co.uk/home
+
+🚀 Processing company: AMFIE S.C.
+[INFO] Scraping: https://www.amfie.org/en
+
+🚀 Processing company: Amicorp Luxembourg SA
+[INFO] Scraping: https://www.amicorp.com/office/luxembourg/
+
+🚀 Processing company: Ampleon Netherlands B.V.
+[INFO] Scraping: https://www.ampleon.com/
+
+🧠 Generating info for: Altiqa SAM
+
+🧠 Generating info for: Altrafin AG
+
+🧠 Generating info for: Altum Luxembourg S.A.
+
+🧠 Generating info for: Ama Thynk Limited
+[WARN] No match found for: Description
+[Altiqa SAM - Description] => Relocation Services
+[Altum Luxembourg S.A. - Description] => Multicultural finance hub
+[Ama Thynk Limited - Description] => Event Sales Platform
+[Altrafin AG - Description] => Financial Services
+[WARN] No match found for: Software Classification
+[Altiqa SAM - Software Classification] => Accounting & Tax
+[Altum Luxembourg S.A. - Software Classification] => Portfolio Management Software
+[Ama Thynk Limited - Software Classification] => Hospitality CRM
+[Altrafin AG - Software Classification] => Asset Management
+[WARN] No match found for: Enterprise Grade Classification
+[Altiqa SAM - Enterprise Grade Classification] => Enterprise-grade consultancy
+[Altum Luxembourg S.A. - Enterprise Grade Classification] => Global Investment
+[Altrafin AG - Enterprise Grade Classification] => Cloud-based
+[Ama Thynk Limited - Enterprise Grade Classification] => Enterprise-grade Hospitality.
+
+🧠 Generating info for: AManco S.A.
+
+🧠 Generating info for: AMAXX Consulting Sarl
+[Altiqa SAM - Industry] => Consulting Industry.
+[Altum Luxembourg S.A. - Industry] => Financial Services
+[AMAXX Consulting Sarl - Description] => Comptable Services
+[AManco S.A. - Description] => "Integrated Security Solutions"
+[Altiqa SAM - Customers names list] => Corporate Clients
+[Altum Luxembourg S.A. - Customers names list] => Luxembourg Companies
+[AMAXX Consulting Sarl - Software Classification] => Analytics Tools
+[AManco S.A. - Software Classification] => Integrated Security
+[Altiqa SAM - Employee Headcount #] => Over 40 years.
+
+🧠 Generating info for: American International Group (UK) Limited
+[Altum Luxembourg S.A. - Employee Headcount #] => 300+
+[AMAXX Consulting Sarl - Enterprise Grade Classification] => Data Analytics
+[AManco S.A. - Enterprise Grade Classification] => Enterprise Grade: Premium
+[American International Group (UK) Limited - Description] => Risk Solutions
+[Altum Luxembourg S.A. - Investors] => Welcome Investors
+[AMAXX Consulting Sarl - Industry] => Financial Services
+[AManco S.A. - Industry] => Telecom Security
+[American International Group (UK) Limited - Software Classification] => Risk Management
+[Altum Luxembourg S.A. - Geography] => Luxembourg
+[AMAXX Consulting Sarl - Customers names list] => Cabinet Comptable
+[AManco S.A. - Customers names list] => Government Clients
+[American International Group (UK) Limited - Enterprise Grade Classification] => Enterprise Grade
+[Altum Luxembourg S.A. - Parent company] => Altum Luxembourg
+[AMAXX Consulting Sarl - Employee Headcount #] => 15 personnes
+[AManco S.A. - Employee Headcount #] => No employee data found.
+[American International Group (UK) Limited - Industry] => Insurance Industry
+[Altum Luxembourg S.A. - Address 1: Street 1] => Avenue Foch
+[AMAXX Consulting Sarl - Investors] => Digital Investors
+[AManco S.A. - Investors] => Welcome Investors
+[American International Group (UK) Limited - Customers names list] => AIG Clients
+[Altum Luxembourg S.A. - Address 1: ZIP/Postal Code] => L-2958
+[AMAXX Consulting Sarl - Geography] => Luxembourg
+[AManco S.A. - Geography] => Saudi Arabia
+[American International Group (UK) Limited - Employee Headcount #] => Employee Count: **Unknown**
+[Altum Luxembourg S.A. - Address 1: City] => Luxembourg City
+[AMAXX Consulting Sarl - Parent company] => Cabinet Comptable
+[AManco S.A. - Parent company] => Amanco S.A.
+[American International Group (UK) Limited - Investors] => Investor Insights
+[Altum Luxembourg S.A. - Address 1: Country/Region] => Luxembourg
+[AMAXX Consulting Sarl - Address 1: Street 1] => Rue Henri Koch
+[AManco S.A. - Address 1: Street 1] => Sylvan Garden
+[American International Group (UK) Limited - Geography] => Worldwide
+[Altum Luxembourg S.A. - Finance] => Private Wealth
+[AMAXX Consulting Sarl - Address 1: ZIP/Postal Code] => 75016
+[AManco S.A. - Address 1: ZIP/Postal Code] => 7324
+[American International Group (UK) Limited - Parent company] => American International Group
+[Altum Luxembourg S.A. - Email] => info@
+[AMAXX Consulting Sarl - Address 1: City] => Luxembourg
+[AManco S.A. - Address 1: City] => Riyadh
+[American International Group (UK) Limited - Address 1: Street 1] => Fenchurch Street
+[Altum Luxembourg S.A. - Phone] => +352 20 88 10 00
+
+🧠 Generating info for: AMFIE S.C.
+[AMAXX Consulting Sarl - Address 1: Country/Region] => Luxembourg
+[AManco S.A. - Address 1: Country/Region] => Kingdom of Saudi Arabia
+[American International Group (UK) Limited - Address 1: ZIP/Postal Code] => EC3M 4AB
+[AMFIE S.C. - Description] => Financial Cooperative
+[AMAXX Consulting Sarl - Finance] => Comptable expertise
+[AManco S.A. - Finance] => Saudi-based
+[American International Group (UK) Limited - Address 1: City] => London EC3M
+[AMFIE S.C. - Software Classification] => Currency Exchange
+[AMAXX Consulting Sarl - Email] => contact@
+[AManco S.A. - Email] => amanco@amancosa.com
+[American International Group (UK) Limited - Address 1: Country/Region] => United Kingdom
+[AMFIE S.C. - Enterprise Grade Classification] => Enterprise Grade
+[AMAXX Consulting Sarl - Phone] => +33
+
+🧠 Generating info for: Amicorp Luxembourg SA
+[AManco S.A. - Phone] => Phone: +966
+
+🧠 Generating info for: Ampleon Netherlands B.V.
+[American International Group (UK) Limited - Finance] => Risk Management
+[AMFIE S.C. - Industry] => Financial Services
+[Amicorp Luxembourg SA - Description] => Offshore Services Provider
+[Ampleon Netherlands B.V. - Description] => RF Power Solutions
+[American International Group (UK) Limited - Email] => Contact Us
+[AMFIE S.C. - Customers names list] => No customers
+[Amicorp Luxembourg SA - Software Classification] => Trust Fund Software
+[Ampleon Netherlands B.V. - Software Classification] => ESD Testing Software
+[American International Group (UK) Limited - Phone] => "Phone Number"
+[AMFIE S.C. - Employee Headcount #] => Single Employee
+[Amicorp Luxembourg SA - Enterprise Grade Classification] => Enterprise Grade
+[Ampleon Netherlands B.V. - Enterprise Grade Classification] => Enterprise-grade
+[AMFIE S.C. - Investors] => **Investors**: AMFIE S.C.
+[Amicorp Luxembourg SA - Industry] => Financial Services
+[Ampleon Netherlands B.V. - Industry] => Semiconductor industry.
+[AMFIE S.C. - Geography] => International
+[Amicorp Luxembourg SA - Customers names list] => Companies Worldwide
+[Ampleon Netherlands B.V. - Customers names list] => None
+[AMFIE S.C. - Parent company] => AMFIE S.C. itself
+[Amicorp Luxembourg SA - Employee Headcount #] => Over 100
+[Ampleon Netherlands B.V. - Employee Headcount #] => Not Available
+[AMFIE S.C. - Address 1: Street 1] => Boulevard Royal
+[Amicorp Luxembourg SA - Investors] => Global Investors
+[Ampleon Netherlands B.V. - Investors] => Institutional
+[AMFIE S.C. - Address 1: ZIP/Postal Code] => 2449 Luxembourg
+[Amicorp Luxembourg SA - Geography] => Luxembourg
+[Ampleon Netherlands B.V. - Geography] => Netherlands
+[AMFIE S.C. - Address 1: City] => Luxembourg
+[Amicorp Luxembourg SA - Parent company] => Amicorp Group
+[Ampleon Netherlands B.V. - Parent company] => NXP Semiconductors
+[AMFIE S.C. - Address 1: Country/Region] => Switzerland
+[Amicorp Luxembourg SA - Address 1: Street 1] => Boulevard de la Foire
+[Ampleon Netherlands B.V. - Address 1: Street 1] => Walenburgweg 4
+[AMFIE S.C. - Finance] => Competitive Finance.
+[Amicorp Luxembourg SA - Address 1: ZIP/Postal Code] => 1528 Luxembourg
+[Ampleon Netherlands B.V. - Address 1: ZIP/Postal Code] => 3524 NL
+[AMFIE S.C. - Email] => "Contact Us"
+[Amicorp Luxembourg SA - Address 1: City] => Luxembourg City
+[Ampleon Netherlands B.V. - Address 1: City] => Eindhoven
+[AMFIE S.C. - Phone] => +352
+[Amicorp Luxembourg SA - Address 1: Country/Region] => Luxembourg
+[Ampleon Netherlands B.V. - Address 1: Country/Region] => Netherlands
+[Amicorp Luxembourg SA - Finance] => Luxembourg Finance
+[Ampleon Netherlands B.V. - Finance] => None
+[Amicorp Luxembourg SA - Email] => "Contact Us"
+[Ampleon Netherlands B.V. - Email] => Enter Email
+[Amicorp Luxembourg SA - Phone] => +32 2 535
+[Ampleon Netherlands B.V. - Phone] => Phone: +31
