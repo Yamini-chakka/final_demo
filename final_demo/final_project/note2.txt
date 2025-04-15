@@ -1,0 +1,230 @@
+
+🚀 Processing company: Amstel Capital (Malta) Limited
+[INFO] Scraping: https://amstelcapital.com/
+
+🚀 Processing company: AMT Gestion S.A.
+[INFO] Scraping: https://amt-sa.com/
+
+🚀 Processing company: Andersen Tax S.à r.l.
+[INFO] Scraping: https://www.andersen.com/
+[ERROR] Failed to scrape https://www.andersen.com/: HTTPSConnectionPool(host='www.andersen.com', port=443): Read timed out. (read timeout=10)
+
+🚀 Processing company: ANREPA Asset Management AG
+[INFO] Scraping: https://deepresearchfund.ch/en/fund-information/
+
+🚀 Processing company: AON Insurance Managers (Guernsey)
+[INFO] Scraping: https://www.aon.com/guernsey/default.jsp
+
+🚀 Processing company: AON Netherlands
+[INFO] Scraping: https://www.aonstudentinsurance.com/
+[ERROR] Failed to scrape https://www.aonstudentinsurance.com/: HTTPSConnectionPool(host='www.aonstudentinsurance.com', port=443): Read timed out. (read timeout=10)
+
+🚀 Processing company: Aon plc
+[INFO] Scraping: https://www.aon.com/en/
+
+🚀 Processing company: AON Strategy and Technology Group
+[INFO] Scraping: https://www.aon.com/en/capabilities/strategy-and-technology-group
+
+🚀 Processing company: APENTIS S.à.r.l.
+[INFO] Scraping: https://apentis.com/
+
+🚀 Processing company: Apex Corporate Services S.A.
+[INFO] Scraping: https://www.apexgroup.com/corporate-solutions/corporate-services/
+
+🧠 Generating info for: Amstel Capital (Malta) Limited
+
+🧠 Generating info for: AMT Gestion S.A.
+
+🧠 Generating info for: Andersen Tax S.à r.l.
+
+🧠 Generating info for: ANREPA Asset Management AG
+[AMT Gestion S.A. - Description] => Talent Development
+[Amstel Capital (Malta) Limited - Description] => Investment Services
+[ANREPA Asset Management AG - Description] => Investment Platform
+[Andersen Tax S.à r.l. - Description] => Professional Services
+[AMT Gestion S.A. - Software Classification] => Please provide the web content related to AMT Gestion S.A., and I'll be happy to help you with your question.
+[Amstel Capital (Malta) Limited - Software Classification] => Investment Software
+[ANREPA Asset Management AG - Software Classification] => Investment Software
+[Andersen Tax S.à r.l. - Software Classification] => Accounting Software
+[AMT Gestion S.A. - Enterprise Grade Classification] => Please provide the web content related to AMT Gestion S.A.
+[Amstel Capital (Malta) Limited - Enterprise Grade Classification] => Enterprise Grade
+[ANREPA Asset Management AG - Enterprise Grade Classification] => Enterprise-grade.
+[Andersen Tax S.à r.l. - Enterprise Grade Classification] => Enterprise Grade: Premium
+[AMT Gestion S.A. - Industry] => Please provide the web content related to the company 'AMT Gestion S.A.'
+[Amstel Capital (Malta) Limited - Industry] => Financial Services
+[ANREPA Asset Management AG - Industry] => Asset Management
+[Andersen Tax S.à r.l. - Industry] => Accounting/Taxation
+[AMT Gestion S.A. - Customers names list] => AMT Gestion
+[Amstel Capital (Malta) Limited - Customers names list] => Professional Investors
+[ANREPA Asset Management AG - Customers names list] => Investors
+[Andersen Tax S.à r.l. - Customers names list] => Private Clients
+[AMT Gestion S.A. - Employee Headcount #] => Undisclosed Count.
+[Amstel Capital (Malta) Limited - Employee Headcount #] => No employee data provided.
+[ANREPA Asset Management AG - Employee Headcount #] => Not provided
+[Andersen Tax S.à r.l. - Employee Headcount #] => 3000+ Employees
+[AMT Gestion S.A. - Investors] => Please provide the web content related to "AMT Gestion S.A." and I will answer your question accordingly.
+[Amstel Capital (Malta) Limited - Investors] => Professional Investors
+[ANREPA Asset Management AG - Investors] => Long-term investors
+[Andersen Tax S.à r.l. - Investors] => "Institutional Investors"
+[AMT Gestion S.A. - Geography] => Global Presence
+[Amstel Capital (Malta) Limited - Geography] => Malta
+[ANREPA Asset Management AG - Geography] => Global Investor
+[Andersen Tax S.à r.l. - Geography] => Luxembourg-based
+[AMT Gestion S.A. - Parent company] => Please provide the web content related to AMT Gestion S.A.
+[Amstel Capital (Malta) Limited - Parent company] => Amstel Global
+[ANREPA Asset Management AG - Parent company] => No parent company mentioned.
+[Andersen Tax S.à r.l. - Parent company] => Andersen Tax S.A.
+[AMT Gestion S.A. - Address 1: Street 1] => Avenue Perdtemps
+[Amstel Capital (Malta) Limited - Address 1: Street 1] => Dragut Street
+[ANREPA Asset Management AG - Address 1: Street 1] => Bahnhofstrasse
+[Andersen Tax S.à r.l. - Address 1: Street 1] => Rue des Étoiles
+[AMT Gestion S.A. - Address 1: ZIP/Postal Code] => 1015
+[Amstel Capital (Malta) Limited - Address 1: ZIP/Postal Code] => Malta PLC
+[ANREPA Asset Management AG - Address 1: ZIP/Postal Code] => 8005
+[Andersen Tax S.à r.l. - Address 1: ZIP/Postal Code] => L-6800
+[AMT Gestion S.A. - Address 1: City] => Nyon Switzerland
+[Amstel Capital (Malta) Limited - Address 1: City] => Valletta
+[ANREPA Asset Management AG - Address 1: City] => Zurich
+[Andersen Tax S.à r.l. - Address 1: City] => Luxembourg City
+[AMT Gestion S.A. - Address 1: Country/Region] => Swiss region
+[Amstel Capital (Malta) Limited - Address 1: Country/Region] => Malta
+[ANREPA Asset Management AG - Address 1: Country/Region] => Liechtenstein-based
+[Andersen Tax S.à r.l. - Address 1: Country/Region] => Luxembourg
+[AMT Gestion S.A. - Finance] => Please provide the web content related to AMT Gestion S.A. I'll be happy to assist you with your question.
+[Amstel Capital (Malta) Limited - Finance] => Regulated Finance
+[ANREPA Asset Management AG - Finance] => Long-term focus
+[Andersen Tax S.à r.l. - Finance] => Tax Advisory
+[AMT Gestion S.A. - Email] => Email: [email@protected]
+[Amstel Capital (Malta) Limited - Email] => info@amstelcapital.com
+[ANREPA Asset Management AG - Email] => info@anrepa.ch
+[Andersen Tax S.à r.l. - Email] => Contact Us
+[AMT Gestion S.A. - Phone] => +41 22 354
+
+🧠 Generating info for: AON Insurance Managers (Guernsey)
+[Amstel Capital (Malta) Limited - Phone] => +356
+
+🧠 Generating info for: AON Netherlands
+[WARN] No match found for: Description
+[ANREPA Asset Management AG - Phone] => +41 31
+
+🧠 Generating info for: Aon plc
+[Andersen Tax S.à r.l. - Phone] => Contact Number
+
+🧠 Generating info for: AON Strategy and Technology Group
+[AON Insurance Managers (Guernsey) - Description] => Insurance Manager
+[AON Netherlands - Description] => I'm ready!
+
+Please provide the web content related to AON Netherlands, and I'll give you a single word or short phrase for the "Description" column.
+[WARN] No match found for: Software Classification
+[Aon plc - Description] => Risk Advisory Firm
+[AON Strategy and Technology Group - Description] => "Request Submission"
+[AON Insurance Managers (Guernsey) - Software Classification] => Reinsurance Software
+[AON Netherlands - Software Classification] => Risk Management
+[WARN] No match found for: Enterprise Grade Classification
+[Aon plc - Software Classification] => Cybersecurity Report
+[AON Strategy and Technology Group - Software Classification] => Risk Modeling Suite
+[AON Insurance Managers (Guernsey) - Enterprise Grade Classification] => Enterprise Grade: **Top Tier**
+[AON Netherlands - Enterprise Grade Classification] => Risk Consulting
+[WARN] No match found for: Industry
+[Aon plc - Enterprise Grade Classification] => Risk Management
+[AON Strategy and Technology Group - Enterprise Grade Classification] => Enterprise-grade solutions.
+[AON Insurance Managers (Guernsey) - Industry] => Insurance & Reinsurance
+[AON Netherlands - Industry] => Risk
+[WARN] No match found for: Customers names list
+[Aon plc - Industry] => Risk Management
+[AON Strategy and Technology Group - Industry] => Insurance Industry
+[AON Insurance Managers (Guernsey) - Customers names list] => Insurance Companies
+[AON Netherlands - Customers names list] => I see! Based on the provided web content related to AON Netherlands, I would answer:
+
+"Multinational Companies"
+
+Is this what you were looking for?
+[WARN] No match found for: Employee Headcount #
+[Aon plc - Customers names list] => Aon clients
+[AON Strategy and Technology Group - Customers names list] => Aon Customers
+[AON Insurance Managers (Guernsey) - Employee Headcount #] => Approximately 100
+[AON Netherlands - Employee Headcount #] => Over 500
+[WARN] No match found for: Investors
+[Aon plc - Employee Headcount #] => Global Workforce
+[AON Strategy and Technology Group - Employee Headcount #] => Thousands Strong
+[AON Insurance Managers (Guernsey) - Investors] => Global Investors
+[AON Netherlands - Investors] => Investors: "Welcome"
+[WARN] No match found for: Geography
+[Aon plc - Investors] => Investor Insights
+[AON Strategy and Technology Group - Investors] => Investors: Growth
+[AON Insurance Managers (Guernsey) - Geography] => Guernsey
+[AON Netherlands - Geography] => Netherlands
+[WARN] No match found for: Parent company
+[Aon plc - Geography] => Global Wide
+[AON Strategy and Technology Group - Geography] => Global
+[AON Insurance Managers (Guernsey) - Parent company] => AON Insurance
+[AON Netherlands - Parent company] => Aon plc
+[WARN] No match found for: Address 1: Street 1
+[Aon plc - Parent company] => Aon Group
+[AON Strategy and Technology Group - Parent company] => AON Hewitt
+[AON Insurance Managers (Guernsey) - Address 1: Street 1] => Dorey Court
+[AON Netherlands - Address 1: Street 1] => Van Swinderenplein
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Aon plc - Address 1: Street 1] => Merchandise Mart Place
+[AON Strategy and Technology Group - Address 1: Street 1] => Prudential Tower
+[AON Insurance Managers (Guernsey) - Address 1: ZIP/Postal Code] => GY1 4AT
+[AON Netherlands - Address 1: ZIP/Postal Code] => 1111
+[WARN] No match found for: Address 1: City
+[Aon plc - Address 1: ZIP/Postal Code] => CHICAGO 60606
+[AON Strategy and Technology Group - Address 1: ZIP/Postal Code] => 60606
+[AON Insurance Managers (Guernsey) - Address 1: City] => St Peter Port
+[AON Netherlands - Address 1: City] => Utrecht
+[WARN] No match found for: Address 1: Country/Region
+[Aon plc - Address 1: City] => Lisle
+[AON Strategy and Technology Group - Address 1: City] => Chicago
+
+🧠 Generating info for: APENTIS S.à.r.l.
+[AON Insurance Managers (Guernsey) - Address 1: Country/Region] => Guernsey
+[AON Netherlands - Address 1: Country/Region] => Netherlands
+[WARN] No match found for: Finance
+[Aon plc - Address 1: Country/Region] => Global
+[APENTIS S.à.r.l. - Description] => Risk Management
+[AON Insurance Managers (Guernsey) - Finance] => Guernsey Finance
+[AON Netherlands - Finance] => Insurance
+[WARN] No match found for: Email
+[Aon plc - Finance] => Risk Capital
+[APENTIS S.à.r.l. - Software Classification] => Portfolio Risk Management
+[AON Insurance Managers (Guernsey) - Email] => [AON EMAIL]
+[AON Netherlands - Email] => info@aon.nl
+[WARN] No match found for: Phone
+[Aon plc - Email] => Verify Your
+[APENTIS S.à.r.l. - Enterprise Grade Classification] => Enterprise Grade
+[AON Insurance Managers (Guernsey) - Phone] => +44 1481
+
+🧠 Generating info for: Apex Corporate Services S.A.
+[AON Netherlands - Phone] => +31-20
+[Aon plc - Phone] => Contact Us
+[APENTIS S.à.r.l. - Industry] => Software Technology
+[Apex Corporate Services S.A. - Description] => Financial Services
+[APENTIS S.à.r.l. - Customers names list] => Asset Managers
+[Apex Corporate Services S.A. - Software Classification] => Financial Software Tools
+[APENTIS S.à.r.l. - Employee Headcount #] => 50+ employees
+[Apex Corporate Services S.A. - Enterprise Grade Classification] => Enterprise Grade
+[APENTIS S.à.r.l. - Investors] => Investor Solutions
+[Apex Corporate Services S.A. - Industry] => Financial Services
+[APENTIS S.à.r.l. - Geography] => Luxembourg-based
+[Apex Corporate Services S.A. - Customers names list] => No Customers
+[APENTIS S.à.r.l. - Parent company] => Parent: Sareln
+[Apex Corporate Services S.A. - Employee Headcount #] => "100+ employees"
+[APENTIS S.à.r.l. - Address 1: Street 1] => Rue Henri Jaspar 7
+[Apex Corporate Services S.A. - Investors] => Asset Managers
+[APENTIS S.à.r.l. - Address 1: ZIP/Postal Code] => Luxembourg-8
+[Apex Corporate Services S.A. - Geography] => Mauritius
+[APENTIS S.à.r.l. - Address 1: City] => Luxembourg City
+[Apex Corporate Services S.A. - Parent company] => Apex Group Ltd.
+[APENTIS S.à.r.l. - Address 1: Country/Region] => Luxembourg
+[Apex Corporate Services S.A. - Address 1: Street 1] => Wingfield Park Drive
+[APENTIS S.à.r.l. - Finance] => Risk Management
+[Apex Corporate Services S.A. - Address 1: ZIP/Postal Code] => 1080
+[APENTIS S.à.r.l. - Email] => info@apentis.com
+[Apex Corporate Services S.A. - Address 1: City] => Luxembourg City
+[APENTIS S.à.r.l. - Phone] => 0800-20-30
+[Apex Corporate Services S.A. - Address 1: Country/Region] => Mauritius
+[Apex Corporate Services S.A. - Finance] => Financial Solutions
+[Apex Corporate Services S.A. - Email] => info@apex.g
+[Apex Corporate Services S.A. - Phone] => Phone: +230
