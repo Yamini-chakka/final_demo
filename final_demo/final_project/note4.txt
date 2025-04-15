@@ -1,0 +1,238 @@
+🚀 Processing company: Arendt Services SA
+[INFO] Scraping: https://www.arendt.com/about-us/our-organisation/arendt-investor-services-sa/
+
+🚀 Processing company: ARGENTA ASSET MANAGEMENT S.A.
+[INFO] Scraping: https://www.argenta.lu/
+
+🚀 Processing company: Argenta Spaarbank N.V. (Lexis Nexis)
+[INFO] Scraping: https://www.lexisnexis.com/en-us/gateway.page?srsltid=AfmBOopF8hgj5lI24o_vDWXzeezqqbOmsksWfioFOqfLBcXfxWWPGo2O
+
+🚀 Processing company: ARHS Cube S.A.
+[INFO] Scraping: https://www.arhs-group.com/
+
+🚀 Processing company: Arithmex Sàrl
+[INFO] Scraping: https://www.editus.lu/en/arithmex-sarl-luxembourg-1612963
+[ERROR] Failed to scrape https://www.editus.lu/en/arithmex-sarl-luxembourg-1612963: HTTPSConnectionPool(host='www.editus.lu', port=443): Max retries exceeded with url: /en/arithmex-sarl-luxembourg-1612963 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016BF23671A0>, 'Connection to www.editus.lu timed out. (connect timeout=10)'))
+
+🚀 Processing company: Arkus Financial Services
+[INFO] Scraping: https://arkus-fs.com/
+
+🚀 Processing company: Armeec Insurance JSC
+[INFO] Scraping: https://armeec.bg/en
+[ERROR] Failed to scrape https://armeec.bg/en: HTTPSConnectionPool(host='armeec.bg', port=443): Max retries exceeded with url: /en (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000016BF4E2AFF0>: Failed to resolve 'armeec.bg' ([Errno 11001] getaddrinfo failed)"))
+
+🚀 Processing company: Arrow Monaco
+[INFO] Scraping: https://www.arrowyacht.com/
+
+🚀 Processing company: ARTE Finanzierungs GmbH
+[INFO] Scraping: https://arte-finanzierung.at/arte-finanzierungs-gmbh
+
+🚀 Processing company: Artex Risk Solutions (Malta) Limited
+[INFO] Scraping: https://www.artexrisk.com/
+[ERROR] Failed to scrape https://www.artexrisk.com/: HTTPSConnectionPool(host='www.artexrisk.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000016BF4E2BAD0>: Failed to resolve 'www.artexrisk.com' ([Errno 11001] getaddrinfo failed)"))
+
+🧠 Generating info for: Arendt Services SA
+
+🧠 Generating info for: ARGENTA ASSET MANAGEMENT S.A.
+
+🧠 Generating info for: Argenta Spaarbank N.V. (Lexis Nexis)
+
+🧠 Generating info for: ARHS Cube S.A.
+[ARHS Cube S.A. - Description] => IT Solutions Company
+[Argenta Spaarbank N.V. (Lexis Nexis) - Description] => Risk Management
+[Arendt Services SA - Description] => Legal Advisory Services
+[ARGENTA ASSET MANAGEMENT S.A. - Description] => Asset Management
+[ARHS Cube S.A. - Software Classification] => Software Development
+[Argenta Spaarbank N.V. (Lexis Nexis) - Software Classification] => Risk Management
+[Arendt Services SA - Software Classification] => User Profiling
+[ARGENTA ASSET MANAGEMENT S.A. - Software Classification] => Investment Software
+[ARHS Cube S.A. - Enterprise Grade Classification] => Enterprise-grade
+[Argenta Spaarbank N.V. (Lexis Nexis) - Enterprise Grade Classification] => Enterprise-grade.
+[Arendt Services SA - Enterprise Grade Classification] => Enterprise-grade Solutions
+[ARGENTA ASSET MANAGEMENT S.A. - Enterprise Grade Classification] => Professional Grade
+[ARHS Cube S.A. - Industry] => IT and Software
+[Argenta Spaarbank N.V. (Lexis Nexis) - Industry] => Financial Services
+[Arendt Services SA - Industry] => Financial Services
+[ARGENTA ASSET MANAGEMENT S.A. - Industry] => Asset Management
+[ARHS Cube S.A. - Customers names list] => Accenture
+[Argenta Spaarbank N.V. (Lexis Nexis) - Customers names list] => Law Firm
+[Arendt Services SA - Customers names list] => None provided
+[ARGENTA ASSET MANAGEMENT S.A. - Customers names list] => Private Clients
+[ARHS Cube S.A. - Employee Headcount #] => "Over 16,000"
+Zero employees
+[Arendt Services SA - Employee Headcount #] => "Few dozen"
+[ARGENTA ASSET MANAGEMENT S.A. - Employee Headcount #] => Multiple
+[ARHS Cube S.A. - Investors] => Investors: Equity
+[Argenta Spaarbank N.V. (Lexis Nexis) - Investors] => Institutional Investors
+[Arendt Services SA - Investors] => Investor Services
+[ARGENTA ASSET MANAGEMENT S.A. - Investors] => Institutional
+[ARHS Cube S.A. - Geography] => Europe-wide
+[Argenta Spaarbank N.V. (Lexis Nexis) - Geography] => Worldwide
+[Arendt Services SA - Geography] => Switzerland
+[ARGENTA ASSET MANAGEMENT S.A. - Geography] => België-Luxemburg
+[ARHS Cube S.A. - Parent company] => Accenture
+[Argenta Spaarbank N.V. (Lexis Nexis) - Parent company] => LexisNexis Group
+[Arendt Services SA - Parent company] => Arendt Group
+[ARGENTA ASSET MANAGEMENT S.A. - Parent company] => Argentabank Luxemburg
+[ARHS Cube S.A. - Address 1: Street 1] => Boulevard du Jazz
+[Argenta Spaarbank N.V. (Lexis Nexis) - Address 1: Street 1] => Amsterdamse Poort
+[Arendt Services SA - Address 1: Street 1] => Rue de
+[ARGENTA ASSET MANAGEMENT S.A. - Address 1: Street 1] => Rue des Capucines
+[ARHS Cube S.A. - Address 1: ZIP/Postal Code] => L-4370
+[Argenta Spaarbank N.V. (Lexis Nexis) - Address 1: ZIP/Postal Code] => 2511
+[Arendt Services SA - Address 1: ZIP/Postal Code] => 1008
+[ARGENTA ASSET MANAGEMENT S.A. - Address 1: ZIP/Postal Code] => L-6529
+[ARHS Cube S.A. - Address 1: City] => Belval
+[Argenta Spaarbank N.V. (Lexis Nexis) - Address 1: City] => Amsterdam
+[Arendt Services SA - Address 1: City] => Luxembourg City
+[ARGENTA ASSET MANAGEMENT S.A. - Address 1: City] => Luxembourg City
+[ARHS Cube S.A. - Address 1: Country/Region] => European Region
+[Argenta Spaarbank N.V. (Lexis Nexis) - Address 1: Country/Region] => Netherlands
+[Arendt Services SA - Address 1: Country/Region] => Luxembourg
+[ARGENTA ASSET MANAGEMENT S.A. - Address 1: Country/Region] => Luxembourg
+[ARHS Cube S.A. - Finance] => IT Services
+[Argenta Spaarbank N.V. (Lexis Nexis) - Finance] => Risk Management
+[Arendt Services SA - Finance] => Investment Funds
+[ARGENTA ASSET MANAGEMENT S.A. - Finance] => Investment Funds
+[ARHS Cube S.A. - Email] => info@arhs-dev.com
+[Argenta Spaarbank N.V. (Lexis Nexis) - Email] => info@argenta.com
+[Arendt Services SA - Email] => Technical Storage
+[ARGENTA ASSET MANAGEMENT S.A. - Email] => info@argenta.as
+[ARHS Cube S.A. - Phone] => +352 26
+
+🧠 Generating info for: Arithmex Sàrl
+[WARN] No match found for: Description
+[Argenta Spaarbank N.V. (Lexis Nexis) - Phone] => +31 30 227 44 55
+
+🧠 Generating info for: Arkus Financial Services
+[Arendt Services SA - Phone] => Contact Us
+
+🧠 Generating info for: Armeec Insurance JSC
+[WARN] No match found for: Description
+[ARGENTA ASSET MANAGEMENT S.A. - Phone] => +32 2
+
+🧠 Generating info for: Arrow Monaco
+[Arithmex Sàrl - Description] => Please provide the web content related to Arithmex Sàrl. I'll be happy to help you with a single word or very short phrase for the "Description" column!
+[WARN] No match found for: Software Classification
+[Arkus Financial Services - Description] => Independent Risk
+[Armeec Insurance JSC - Description] => Insurance Provider
+[WARN] No match found for: Software Classification
+[Arrow Monaco - Description] => Maritime Services
+[Arithmex Sàrl - Software Classification] => Mathematical Modeling
+[WARN] No match found for: Enterprise Grade Classification
+[Arkus Financial Services - Software Classification] => Risk as a Service
+[Armeec Insurance JSC - Software Classification] => Insurance Software
+[WARN] No match found for: Enterprise Grade Classification
+[Arrow Monaco - Software Classification] => Yacht Management Software
+[Arithmex Sàrl - Enterprise Grade Classification] => Business Intelligence
+[WARN] No match found for: Industry
+[Arkus Financial Services - Enterprise Grade Classification] => Enterprise-grade
+[Armeec Insurance JSC - Enterprise Grade Classification] => Financial Services
+[WARN] No match found for: Industry
+[Arrow Monaco - Enterprise Grade Classification] => Enterprise Grade
+[Arithmex Sàrl - Industry] => Financial
+[WARN] No match found for: Customers names list
+[Arkus Financial Services - Industry] => Financial Services
+[Armeec Insurance JSC - Industry] => Insurance
+[WARN] No match found for: Customers names list
+[Arrow Monaco - Industry] => Superyacht Industry
+[Arithmex Sàrl - Customers names list] => Financial Institutions
+[WARN] No match found for: Employee Headcount #
+[Arkus Financial Services - Customers names list] => LLB Invest
+[Armeec Insurance JSC - Customers names list] => Policyholders
+[WARN] No match found for: Employee Headcount #
+[Arrow Monaco - Customers names list] => Yacht Owners
+[Arithmex Sàrl - Employee Headcount #] => Several dozen
+[WARN] No match found for: Investors
+[Arkus Financial Services - Employee Headcount #] => Multiple hundred
+[Armeec Insurance JSC - Employee Headcount #] => Thousands
+[WARN] No match found for: Investors
+[Arrow Monaco - Employee Headcount #] => "Unknown Headcount"
+[Arithmex Sàrl - Investors] => Institutional
+[WARN] No match found for: Geography
+[Arkus Financial Services - Investors] => Independent Risk
+[Armeec Insurance JSC - Investors] => Welcoming Investors
+[WARN] No match found for: Geography
+[Arrow Monaco - Investors] => Investment Opportunity
+[Arithmex Sàrl - Geography] => Switzerland
+[WARN] No match found for: Parent company
+[Arkus Financial Services - Geography] => European Region
+[Armeec Insurance JSC - Geography] => Bulgaria
+[WARN] No match found for: Parent company
+[Arrow Monaco - Geography] => Monaco-based
+[Arithmex Sàrl - Parent company] => None Known
+[WARN] No match found for: Address 1: Street 1
+[Arkus Financial Services - Parent company] => No Parent company mentioned.
+[Armeec Insurance JSC - Parent company] => United Bulgarian Bank
+[WARN] No match found for: Address 1: Street 1
+[Arrow Monaco - Parent company] => Feadship Group.
+[Arithmex Sàrl - Address 1: Street 1] => Rue du Château
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Arkus Financial Services - Address 1: Street 1] => London Road
+[Armeec Insurance JSC - Address 1: Street 1] => Bulgarska Str
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Arrow Monaco - Address 1: Street 1] => Avenue du Monaco
+[Arithmex Sàrl - Address 1: ZIP/Postal Code] => 1042
+[WARN] No match found for: Address 1: City
+[Arkus Financial Services - Address 1: ZIP/Postal Code] => L-4555
+[Armeec Insurance JSC - Address 1: ZIP/Postal Code] => 1040
+[WARN] No match found for: Address 1: City
+[Arrow Monaco - Address 1: ZIP/Postal Code] => MC 9802
+[Arithmex Sàrl - Address 1: City] => Geneva
+[WARN] No match found for: Address 1: Country/Region
+[Arkus Financial Services - Address 1: City] => London
+[Armeec Insurance JSC - Address 1: City] => Sofia
+[Arrow Monaco - Address 1: City] => Monaco City
+[Arithmex Sàrl - Address 1: Country/Region] => Switzerland
+
+🧠 Generating info for: ARTE Finanzierungs GmbH
+🧠 Generating info for: Artex Risk Solutions (Malta) Limited
+
+[WARN] No match found for: Description
+[ARTE Finanzierungs GmbH - Description] => Immobilieninvestition
+[Artex Risk Solutions (Malta) Limited - Description] => Risk Consulting
+[WARN] No match found for: Software Classification
+[ARTE Finanzierungs GmbH - Software Classification] => Real Estate Software
+[Artex Risk Solutions (Malta) Limited - Software Classification] => Risk Management
+[WARN] No match found for: Enterprise Grade Classification
+[Artex Risk Solutions (Malta) Limited - Enterprise Grade Classification] => Risk Management
+[ARTE Finanzierungs GmbH - Enterprise Grade Classification] => Enterprise Grade: **Investment Focus**
+[WARN] No match found for: Industry
+[Artex Risk Solutions (Malta) Limited - Industry] => Risk Management
+[WARN] No match found for: Customers names list
+[ARTE Finanzierungs GmbH - Industry] => Immobilienbranche
+[Artex Risk Solutions (Malta) Limited - Customers names list] => Insurers
+[WARN] No match found for: Employee Headcount #
+[ARTE Finanzierungs GmbH - Customers names list] => Investment Clients
+[Artex Risk Solutions (Malta) Limited - Employee Headcount #] => "Multiple Hundreds"
+[WARN] No match found for: Investors
+[ARTE Finanzierungs GmbH - Employee Headcount #] => "Unbekannt" (Unknown)
+[Artex Risk Solutions (Malta) Limited - Investors] => Private Equity
+[WARN] No match found for: Geography
+[ARTE Finanzierungs GmbH - Investors] => Institutionelle
+[Artex Risk Solutions (Malta) Limited - Geography] => Malta
+[WARN] No match found for: Parent company
+[ARTE Finanzierungs GmbH - Geography] => Österreich
+[Artex Risk Solutions (Malta) Limited - Parent company] => Lloyd's of London
+[ARTE Finanzierungs GmbH - Parent company] => ARTE Investment
+[WARN] No match found for: Address 1: Street 1
+[Artex Risk Solutions (Malta) Limited - Address 1: Street 1] => Spinola
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[ARTE Finanzierungs GmbH - Address 1: Street 1] => Praterstraße 38
+[Artex Risk Solutions (Malta) Limited - Address 1: ZIP/Postal Code] => MLT-1154
+[WARN] No match found for: Address 1: City
+[ARTE Finanzierungs GmbH - Address 1: ZIP/Postal Code] => 3100 Wien
+[Artex Risk Solutions (Malta) Limited - Address 1: City] => Valletta
+[WARN] No match found for: Address 1: Country/Region
+[ARTE Finanzierungs GmbH - Address 1: City] => Wien
+[Artex Risk Solutions (Malta) Limited - Address 1: Country/Region] => Malta
+[WARN] No match found for: Finance
+[ARTE Finanzierungs GmbH - Address 1: Country/Region] => Austria
+[Artex Risk Solutions (Malta) Limited - Finance] => Insurance
+[WARN] No match found for: Email
+[ARTE Finanzierungs GmbH - Finance] => Immobilienfinanzierung
+[Artex Risk Solutions (Malta) Limited - Email] => info@artexrisk.com
+[WARN] No match found for: Phone
+[ARTE Finanzierungs GmbH - Email] => lind@agora
+[Artex Risk Solutions (Malta) Limited - Phone] => +356
+[ARTE Finanzierungs GmbH - Phone] => +43 1

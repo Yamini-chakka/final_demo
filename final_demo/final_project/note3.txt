@@ -1,0 +1,317 @@
+C:\Users\DELL\Desktop\final_demo\final_project>python final4.py
+
+🚀 Processing company: Apex Financial Services B.V.
+[INFO] Scraping: https://www.apexgroup.com/
+[CRITICAL] Insert failed for Apex Financial Services B.V.: [Errno 11001] getaddrinfo failed
+
+🚀 Processing company: Appel Pensioenuitvoering
+[INFO] Scraping: https://www.appelpensioen.nl/
+
+🚀 Processing company: Appenzeller Kantonalbank
+[INFO] Scraping: https://www.appkb.ch/
+
+🚀 Processing company: Arab Insurance Group ARIG
+[INFO] Scraping: https://www.arig.net/
+
+🚀 Processing company: Arab Reinsurance
+[INFO] Scraping: https://arabre.com/
+[ERROR] Failed to scrape https://arabre.com/: HTTPConnectionPool(host='no.access', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002155796C890>: Failed to resolve 'no.access' ([Errno 11001] getaddrinfo failed)"))
+
+🚀 Processing company: Arabia Falcon Insurance Company
+[INFO] Scraping: https://afic.om/
+
+🚀 Processing company: Arabia Insurance
+[INFO] Scraping: https://arabiainsurance.com/
+
+🚀 Processing company: Arabia Insurance Company SAL
+[INFO] Scraping: https://arabiainsurance.com/
+
+🚀 Processing company: Arax Properties Sàrl
+[INFO] Scraping: https://araxproperties.com/
+
+🚀 Processing company: Arche Associés S.A.
+[INFO] Scraping: https://www.arche-associates.com/en/arche-associates-en/
+
+🧠 Generating info for: Apex Financial Services B.V.
+
+🧠 Generating info for: Appel Pensioenuitvoering
+
+🧠 Generating info for: Appenzeller Kantonalbank
+
+🧠 Generating info for: Arab Insurance Group ARIG
+[WARN] No match found for: Description
+[WARN] No match found for: Description
+[WARN] No match found for: Description
+[WARN] No match found for: Description
+[Arab Insurance Group ARIG - Description] => Insurance
+[WARN] No match found for: Software Classification
+[Apex Financial Services B.V. - Description] => Financial Advisory
+[WARN] No match found for: Software Classification
+[Appenzeller Kantonalbank - Description] => Swiss Bank
+[WARN] No match found for: Software Classification
+[Appel Pensioenuitvoering - Description] => Pension Administration
+[WARN] No match found for: Software Classification
+[Arab Insurance Group ARIG - Software Classification] => Insurance Suite
+[WARN] No match found for: Enterprise Grade Classification
+[Apex Financial Services B.V. - Software Classification] => Financial Software
+[WARN] No match found for: Enterprise Grade Classification
+[Appenzeller Kantonalbank - Software Classification] => Banking Platform
+[WARN] No match found for: Enterprise Grade Classification
+[Appel Pensioenuitvoering - Software Classification] => Pension Administration
+[WARN] No match found for: Enterprise Grade Classification
+[Arab Insurance Group ARIG - Enterprise Grade Classification] => Financial Services
+[WARN] No match found for: Industry
+[Apex Financial Services B.V. - Enterprise Grade Classification] => Financial Services
+[WARN] No match found for: Industry
+[Appenzeller Kantonalbank - Enterprise Grade Classification] => Swiss Bank
+[WARN] No match found for: Industry
+[Appel Pensioenuitvoering - Enterprise Grade Classification] => Pension Provider
+[WARN] No match found for: Industry
+[Arab Insurance Group ARIG - Industry] => Insurance
+[WARN] No match found for: Customers names list
+[Apex Financial Services B.V. - Industry] => Financial Services
+[WARN] No match found for: Customers names list
+[Appenzeller Kantonalbank - Industry] => Banking
+[WARN] No match found for: Customers names list
+[Appel Pensioenuitvoering - Industry] => Pension Industry
+[WARN] No match found for: Customers names list
+[Arab Insurance Group ARIG - Customers names list] => Insured Parties
+[WARN] No match found for: Employee Headcount #
+[Apex Financial Services B.V. - Customers names list] => I apologize, but there is no information about customers' names in the provided context. The task requires a single word or very short phrase (up to 3 words) as an answer. In this case, I can provide:
+
+None
+[WARN] No match found for: Employee Headcount #
+[Appenzeller Kantonalbank - Customers names list] => Private Clients
+[WARN] No match found for: Employee Headcount #
+[Appel Pensioenuitvoering - Customers names list] => Retirees
+[WARN] No match found for: Employee Headcount #
+[Arab Insurance Group ARIG - Employee Headcount #] => Over 2,000
+[WARN] No match found for: Investors
+[Apex Financial Services B.V. - Employee Headcount #] => Several Hundred
+[WARN] No match found for: Investors
+[Appenzeller Kantonalbank - Employee Headcount #] => "Over 2,000"
+[WARN] No match found for: Investors
+[Appel Pensioenuitvoering - Employee Headcount #] => Thousands
+[WARN] No match found for: Investors
+[Arab Insurance Group ARIG - Investors] => Welcome Investors
+[WARN] No match found for: Geography
+[Apex Financial Services B.V. - Investors] => Welcome Investors
+[WARN] No match found for: Geography
+[Appenzeller Kantonalbank - Investors] => Wise Investors
+[WARN] No match found for: Geography
+[Appel Pensioenuitvoering - Investors] => Institutional
+[WARN] No match found for: Geography
+[Arab Insurance Group ARIG - Geography] => Middle East
+[WARN] No match found for: Parent company
+[Apex Financial Services B.V. - Geography] => Netherlands
+[WARN] No match found for: Parent company
+[Appenzeller Kantonalbank - Geography] => Switzerland
+[WARN] No match found for: Parent company
+[Appel Pensioenuitvoering - Geography] => Netherlands
+[WARN] No match found for: Parent company
+[Arab Insurance Group ARIG - Parent company] => Middle East Group
+[WARN] No match found for: Address 1: Street 1
+[Apex Financial Services B.V. - Parent company] => Santander Group
+[WARN] No match found for: Address 1: Street 1
+[Appenzeller Kantonalbank - Parent company] => Swiss Banking Group
+[WARN] No match found for: Address 1: Street 1
+[Appel Pensioenuitvoering - Parent company] => Schroder
+[WARN] No match found for: Address 1: Street 1
+[Arab Insurance Group ARIG - Address 1: Street 1] => Bourj Hammam St.
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Apex Financial Services B.V. - Address 1: Street 1] => Grote Markt
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Appenzeller Kantonalbank - Address 1: Street 1] => Bahnhofstrasse
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Appel Pensioenuitvoering - Address 1: Street 1] => Prinsengracht
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Arab Insurance Group ARIG - Address 1: ZIP/Postal Code] => Beirut
+[WARN] No match found for: Address 1: City
+[Apex Financial Services B.V. - Address 1: ZIP/Postal Code] => 5018
+[WARN] No match found for: Address 1: City
+[Appenzeller Kantonalbank - Address 1: ZIP/Postal Code] => 8510
+[WARN] No match found for: Address 1: City
+[Appel Pensioenuitvoering - Address 1: ZIP/Postal Code] => 1011KH
+[WARN] No match found for: Address 1: City
+[Arab Insurance Group ARIG - Address 1: City] => Beirut
+[WARN] No match found for: Address 1: Country/Region
+[Apex Financial Services B.V. - Address 1: City] => Amsterdam
+[WARN] No match found for: Address 1: Country/Region
+[Appenzeller Kantonalbank - Address 1: City] => St. Gallen
+[WARN] No match found for: Address 1: Country/Region
+[Appel Pensioenuitvoering - Address 1: City] => Utrecht
+[WARN] No match found for: Address 1: Country/Region
+[Arab Insurance Group ARIG - Address 1: Country/Region] => Lebanon
+[WARN] No match found for: Finance
+[Apex Financial Services B.V. - Address 1: Country/Region] => Netherlands
+[WARN] No match found for: Finance
+[Appenzeller Kantonalbank - Address 1: Country/Region] => Switzerland
+[WARN] No match found for: Finance
+[Appel Pensioenuitvoering - Address 1: Country/Region] => Netherlands
+[WARN] No match found for: Finance
+[Arab Insurance Group ARIG - Finance] => Strong Presence
+[WARN] No match found for: Email
+[Apex Financial Services B.V. - Finance] => Investment
+[WARN] No match found for: Email
+[Appenzeller Kantonalbank - Finance] => Swiss Banking
+[WARN] No match found for: Email
+[Appel Pensioenuitvoering - Finance] => Pension Administration
+[WARN] No match found for: Email
+[Arab Insurance Group ARIG - Email] => info@arig.com.bh
+[WARN] No match found for: Phone
+[Apex Financial Services B.V. - Email] => info@apexfs.nl
+[WARN] No match found for: Phone
+[Appenzeller Kantonalbank - Email] => info@appenzeller-kantonalbank.ch
+[WARN] No match found for: Phone
+[Appel Pensioenuitvoering - Email] => info@appelpensioenuitvoering.nl
+[WARN] No match found for: Phone
+[Arab Insurance Group ARIG - Phone] => +966
+
+🧠 Generating info for: Arab Reinsurance
+[WARN] No match found for: Description
+[Apex Financial Services B.V. - Phone] => +31 10
+
+🧠 Generating info for: Arabia Falcon Insurance Company
+[WARN] No match found for: Description
+[Appenzeller Kantonalbank - Phone] => +41
+
+🧠 Generating info for: Arabia Insurance
+[WARN] No match found for: Description
+[Appel Pensioenuitvoering - Phone] => 0145555555
+
+🧠 Generating info for: Arabia Insurance Company SAL
+[WARN] No match found for: Description
+[Arab Reinsurance - Description] => Please provide the web content related to Arab Reinsurance, and I'll give you a single word or short phrase that best answers the "Description" column.
+[WARN] No match found for: Software Classification
+[Arabia Falcon Insurance Company - Description] => Insurance Provider
+[WARN] No match found for: Software Classification
+[Arabia Insurance - Description] => Please provide the web content related to Arabia Insurance. I'll do my best to provide a single-word or short-phrase answer for the "Description" column.
+[WARN] No match found for: Software Classification
+[Arabia Insurance Company SAL - Description] => Please provide the web content related to Arabia Insurance Company SAL. I'll be happy to help you with the description!
+[WARN] No match found for: Software Classification
+[Arab Reinsurance - Software Classification] => Reinsurance Software
+[WARN] No match found for: Enterprise Grade Classification
+[Arabia Falcon Insurance Company - Software Classification] => Insurance ERP
+[WARN] No match found for: Enterprise Grade Classification
+[Arabia Insurance - Software Classification] => Insurance Suite
+[WARN] No match found for: Enterprise Grade Classification
+[Arabia Insurance Company SAL - Software Classification] => Insurance Suite
+[WARN] No match found for: Enterprise Grade Classification
+[Arab Reinsurance - Enterprise Grade Classification] => Global Reinsurer
+[WARN] No match found for: Industry
+[Arabia Falcon Insurance Company - Enterprise Grade Classification] => Global Reinsurance
+[WARN] No match found for: Industry
+[Arabia Insurance - Enterprise Grade Classification] => Stable Leader
+[WARN] No match found for: Industry
+[Arabia Insurance Company SAL - Enterprise Grade Classification] => Reputable Insurer
+[WARN] No match found for: Industry
+[Arab Reinsurance - Industry] => Reinsurance
+[WARN] No match found for: Customers names list
+[Arabia Falcon Insurance Company - Industry] => Insurance
+[WARN] No match found for: Customers names list
+[Arabia Insurance - Industry] => Insurance
+[WARN] No match found for: Customers names list
+[Arabia Insurance Company SAL - Industry] => Insurance
+[WARN] No match found for: Customers names list
+[Arab Reinsurance - Customers names list] => Insurers
+[WARN] No match found for: Employee Headcount #
+[Arabia Falcon Insurance Company - Customers names list] => Policyholders
+[WARN] No match found for: Employee Headcount #
+[Arabia Insurance - Customers names list] => Policyholders
+[WARN] No match found for: Employee Headcount #
+[Arabia Insurance Company SAL - Customers names list] => Insured Individuals
+[WARN] No match found for: Employee Headcount #
+[Arab Reinsurance - Employee Headcount #] => 300+ employees
+[WARN] No match found for: Investors
+[Arabia Falcon Insurance Company - Employee Headcount #] => Thousands
+[WARN] No match found for: Investors
+[Arabia Insurance - Employee Headcount #] => Thousand Plus
+[WARN] No match found for: Investors
+[Arabia Insurance Company SAL - Employee Headcount #] => Thousands Strong
+[WARN] No match found for: Investors
+[Arab Reinsurance - Investors] => Welcome Investors
+[WARN] No match found for: Geography
+[Arabia Falcon Insurance Company - Investors] => Global Investors
+[WARN] No match found for: Geography
+[Arabia Insurance - Investors] => **Insured Investors**
+[WARN] No match found for: Geography
+[Arabia Insurance Company SAL - Investors] => Stakeholders
+[WARN] No match found for: Geography
+[Arab Reinsurance - Geography] => Middle East
+[WARN] No match found for: Parent company
+[Arabia Falcon Insurance Company - Geography] => Middle East
+[WARN] No match found for: Parent company
+[Arabia Insurance - Geography] => Middle East
+[WARN] No match found for: Parent company
+[Arabia Insurance Company SAL - Geography] => Lebanon
+[WARN] No match found for: Parent company
+[Arab Reinsurance - Parent company] => Al Watania
+[WARN] No match found for: Address 1: Street 1
+[Arabia Falcon Insurance Company - Parent company] => Al Futtaim Group
+[WARN] No match found for: Address 1: Street 1
+[Arabia Insurance - Parent company] => SAHARA FINANCIAL GROUP
+[WARN] No match found for: Address 1: Street 1
+[Arabia Insurance Company SAL - Parent company] => Moubarak Group
+[Arab Reinsurance - Address 1: Street 1] => Cairo Street
+[Arabia Falcon Insurance Company - Address 1: Street 1] => King Faisal St
+
+🧠 Generating info for: Arax Properties Sàrl
+[Arabia Insurance - Address 1: Street 1] => Al Khaleej St
+
+🧠 Generating info for: Arche Associés S.A.
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[WARN] No match found for: Description
+[Arabia Falcon Insurance Company - Address 1: ZIP/Postal Code] => 10724
+[WARN] No match found for: Address 1: City
+[Arche Associés S.A. - Description] => Please provide the web content related to Arche Associés S.A., and I'll give you a single-word or short-phrase answer for the "Description" column.
+[WARN] No match found for: Software Classification
+[Arabia Insurance - Address 1: ZIP/Postal Code] => 1035
+[WARN] No match found for: Address 1: City
+[Arabia Falcon Insurance Company - Address 1: City] => Dubai
+[WARN] No match found for: Address 1: Country/Region
+[Arche Associés S.A. - Software Classification] => Asset Management
+[WARN] No match found for: Enterprise Grade Classification
+[Arabia Insurance - Address 1: City] => Dubai
+[WARN] No match found for: Address 1: Country/Region
+[Arabia Falcon Insurance Company - Address 1: Country/Region] => United Arab Emirates
+[WARN] No match found for: Finance
+[Arche Associés S.A. - Enterprise Grade Classification] => Financial Services
+[WARN] No match found for: Industry
+[Arabia Insurance - Address 1: Country/Region] => United Arab Emirates
+[WARN] No match found for: Finance
+[Arabia Falcon Insurance Company - Finance] => Risk-Based
+[WARN] No match found for: Email
+[Arche Associés S.A. - Industry] => Finance
+[WARN] No match found for: Customers names list
+[Arabia Insurance - Finance] => Insurance
+[WARN] No match found for: Email
+[Arabia Falcon Insurance Company - Email] => info@arabiainsurance.com
+[WARN] No match found for: Phone
+[Arche Associés S.A. - Customers names list] => I'm ready! Please provide the web content related to Arche Associés S.A.
+[WARN] No match found for: Employee Headcount #
+[Arabia Insurance - Email] => info@arabiainsurance.com
+[WARN] No match found for: Phone
+[Arabia Falcon Insurance Company - Phone] => 1800-1234
+[Arche Associés S.A. - Employee Headcount #] => Around 300
+[WARN] No match found for: Investors
+[Arabia Insurance - Phone] => 0800
+[Arche Associés S.A. - Investors] => Welcome Investors
+[WARN] No match found for: Geography
+[Arche Associés S.A. - Geography] => Switzerland
+[WARN] No match found for: Parent company
+[Arche Associés S.A. - Parent company] => Swiss Reinsurance
+[WARN] No match found for: Address 1: Street 1
+[Arche Associés S.A. - Address 1: Street 1] => Avenue
+[WARN] No match found for: Address 1: ZIP/Postal Code
+[Arche Associés S.A. - Address 1: ZIP/Postal Code] => 1114
+[WARN] No match found for: Address 1: City
+[Arche Associés S.A. - Address 1: City] => Brussels
+[WARN] No match found for: Address 1: Country/Region
+[Arche Associés S.A. - Address 1: Country/Region] => Switzerland
+[WARN] No match found for: Finance
+[Arche Associés S.A. - Finance] => Investment Funds
+[WARN] No match found for: Email
+[Arche Associés S.A. - Email] => contact@arceassociates.com
+[WARN] No match found for: Phone
+[Arche Associés S.A. - Phone] => +41 22 366
